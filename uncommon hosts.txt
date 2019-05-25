@@ -429,3 +429,16 @@
 0.0.0.0 clksite.com
 0.0.0.0 takeoutn.tk
 0.0.0.0 mycdn.co
+0.0.0.0 widget.pushbullet.com
+0.0.0.0 xspadvertising.com
+0.0.0.0 disqusads.com
+0.0.0.0 instant.page
+0.0.0.0 referrer.disqus.com
+0.0.0.0 narrative.io
+0.0.0.0 asset.pagefair.com
+0.0.0.0 asset.pagefair.net
+0.0.0.0 truoptik.com
+0.0.0.0 tubemogul.com
+0.0.0.0 getpolymorph.com
+0.0.0.0 apkmirror.disqus.com
+0.0.0.0 agkn.com
