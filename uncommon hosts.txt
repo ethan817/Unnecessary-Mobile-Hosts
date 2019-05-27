@@ -442,3 +442,4 @@
 0.0.0.0 getpolymorph.com
 0.0.0.0 apkmirror.disqus.com
 0.0.0.0 agkn.com
+0.0.0.0 coagricu.net
