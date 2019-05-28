@@ -477,4 +477,9 @@
 0.0.0.0 click.cbsnewsletter.com
 0.0.0.0 pixel.nymag.com
 0.0.0.0 lendingtree.com
+0.0.0.0 techprivacytopapplication.pw
+0.0.0.0 mobiletop2018techie.xyz
+0.0.0.0 partuise.info
+0.0.0.0 tertwronletarfi.pro
+
 
