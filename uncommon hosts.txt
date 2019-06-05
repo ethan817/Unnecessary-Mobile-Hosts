@@ -214,8 +214,6 @@
 0.0.0.0 win3.studynerdz.com
 0.0.0.0 win2.studynerdz.com
 0.0.0.0 win1.studynerdz.com
-0.0.0.0 www.facebook.com
-0.0.0.0 m.facebook.com
 0.0.0.0 7wuvias.website
 0.0.0.0 id.google.com
 0.0.0.0 bts-la.ucweb.com
@@ -250,7 +248,6 @@
 0.0.0.0 track.uc.cn
 0.0.0.0 laptop-updates.brave.com
 0.0.0.0 feedback.uc.cn
-0.0.0.0 an.facebook.com
 0.0.0.0 img.uodoo.com
 0.0.0.0 special.skin.ucweb.com
 0.0.0.0 event.allnews.uodoo.com
