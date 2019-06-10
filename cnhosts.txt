@@ -173,6 +173,7 @@
 0.0.0.0	js.wu65.com
 0.0.0.0	e.jackaow.com
 0.0.0.0	js3077.cnbole.net
+0.0.0.0	m.yanyankj.com
 0.0.0.0	dy.niu.xunlei.com
 0.0.0.0	pic.bloggerads.net
 0.0.0.0	cpc.sogou.com
@@ -223,8 +224,8 @@
 0.0.0.0	m.tbieq.com
 0.0.0.0	fang.baidu.com
 0.0.0.0	ios.ann5.net
-0.0.0.0	20190504.logic.cpm.cm.kankan.com
 0.0.0.0	v5.cnzz.com
+0.0.0.0	img.ak.impact-ad.jp
 0.0.0.0	photo.ybaobei.cn
 0.0.0.0	x1.go.sohu.com
 0.0.0.0	api.store.sohu.com
@@ -232,9 +233,11 @@
 0.0.0.0 wgo.mmstat.com
 0.0.0.0	s.l.fastapi.net
 0.0.0.0	ss1.bdstatic.com
+0.0.0.0	m.rp71l.cn
 0.0.0.0 a.alimama.cn
 0.0.0.0	e.y23zpl.cn
 0.0.0.0	ad-count.adwo.com
+0.0.0.0	e.jzvog.cn
 0.0.0.0	u291014.nr1234.com
 0.0.0.0	sysvipllq.baidu.com
 0.0.0.0 yaolan.adsame.com
@@ -286,7 +289,6 @@
 0.0.0.0	xiazai.zbrushcn.com
 0.0.0.0	pw.cnzz.com
 0.0.0.0	m.ybanj.com
-0.0.0.0	20190520.logic.cpm.cm.kankan.com
 0.0.0.0	cjroq.bealge.sogou.com
 0.0.0.0	s.hk9600.com
 0.0.0.0	strip.taobaocdn.com
@@ -327,10 +329,10 @@
 0.0.0.0	down.gotek.com.cn
 0.0.0.0	m.mouaa.com
 0.0.0.0	eastmoney.allyes.com
-0.0.0.0	20190527.logic.cpm.cm.kankan.com
 0.0.0.0	z2.cnzz.com
 0.0.0.0	xs.he9630.com
 0.0.0.0	qorf.nxh2h.cn
+0.0.0.0	20190601.logic.cpm.cm.kankan.com
 0.0.0.0	feed.baidu.com
 0.0.0.0	tw13b093.sandai.net
 0.0.0.0	www.tujidao.com
@@ -338,7 +340,9 @@
 0.0.0.0	www.v00087.com
 0.0.0.0	in.pomhz.com
 0.0.0.0	m.xhera.cn
+0.0.0.0	e.82uxa.cn
 0.0.0.0	js7129.dlkjgjmy.com
+0.0.0.0	m.qh70wg.cn
 0.0.0.0 bdd.hainan.net
 0.0.0.0	m.kuptmf.cn
 0.0.0.0 md.sh5e.com
@@ -353,6 +357,7 @@
 0.0.0.0	qp.yunanfuwuqi.com
 0.0.0.0 sambaclk.adsame.com
 0.0.0.0	img.88duk.com
+0.0.0.0	20190608.logic.cpm.cm.kankan.com
 0.0.0.0 webmine.cz
 0.0.0.0	e.dunmm.com
 0.0.0.0	secure.dsp.com
@@ -454,6 +459,7 @@
 0.0.0.0 videojj.com
 0.0.0.0	profile.ssp.rambler.ru
 0.0.0.0 m.clubske.com
+0.0.0.0	e.nq37f.cn
 0.0.0.0 qxm.pluto.sogou.com
 0.0.0.0	dueu.0fwg.cn
 0.0.0.0	s.pdsjycm.com
@@ -583,6 +589,7 @@
 0.0.0.0	count18.51yes.com
 0.0.0.0	p3p.yahoo.com
 0.0.0.0 www.minesage.com
+0.0.0.0	m.1j5wc.cn
 0.0.0.0	update.mobile.kugou.com
 0.0.0.0	adsina.allyes.com
 0.0.0.0	img.adpush.cn
@@ -606,6 +613,7 @@
 0.0.0.0	www.adwo.com
 0.0.0.0	e.eshuy.com
 0.0.0.0	m.irauz.com
+0.0.0.0	cjiv.chengjie168.com.cn
 0.0.0.0	www.laoqu123.com
 0.0.0.0	help.baidu.com
 0.0.0.0	au.umeng.co
@@ -779,11 +787,14 @@
 0.0.0.0 z13.cnzz.com
 0.0.0.0	temp.163.com
 0.0.0.0 s84.cnzz.com
+0.0.0.0	g.hutao1.cn
 0.0.0.0	cyad1.nate.com
 0.0.0.0 atm.yoyi.com.cn
 0.0.0.0	gg.ptfish.com
 0.0.0.0	cws-cctv.conviva.com
 0.0.0.0	cpro.tieba.baidu.com
+0.0.0.0	e.5pzs0o.cn
+0.0.0.0 tag-store.ads-pixiv.net
 0.0.0.0	p215223.clksite.com
 0.0.0.0	g.aliguojw.com
 0.0.0.0	coed-d.openx.net
@@ -796,6 +807,7 @@
 0.0.0.0	cp.jz5u.net
 0.0.0.0	ad.1111cpc.com
 0.0.0.0	js2254.njqunyi.com
+0.0.0.0	e.qj10b.cn
 0.0.0.0	b1sync.zemanta.com
 0.0.0.0	t75.qyqc4s.com
 0.0.0.0 api.uniplayad.com
@@ -843,6 +855,7 @@
 0.0.0.0	adsatt.movies.starwave.com
 0.0.0.0 idm-su.baidu.com
 0.0.0.0	hao.7654.com
+0.0.0.0	20190610.logic.cpm.cm.kankan.com
 0.0.0.0	g1xd.mediav.com
 0.0.0.0	i.jiajv.net
 0.0.0.0	jbflil.cn
@@ -928,7 +941,6 @@
 0.0.0.0	a.lwinl.com
 0.0.0.0	e.rjiau.com
 0.0.0.0	ama.adwo.com
-0.0.0.0	gsp1.baidu.com
 0.0.0.0	www.jpush.cn
 0.0.0.0	gou.wps.cn
 0.0.0.0	app.lz55.cn
@@ -962,6 +974,7 @@
 0.0.0.0	neirong.baidu.com
 0.0.0.0	aes01.com
 0.0.0.0	ws004.coin-hive.com
+0.0.0.0	e.vpmjg.cn
 0.0.0.0	sssd.cn7765.com
 0.0.0.0 x.da.hunantv.com
 0.0.0.0	yxs.tymsyx.com
@@ -1086,6 +1099,7 @@
 0.0.0.0	config.adsage.com
 0.0.0.0	www.xmindchina.net
 0.0.0.0 rs1.qq.com
+0.0.0.0	m.8p30k.cn
 0.0.0.0	adcount.yoka.com
 0.0.0.0	m.o4hpc.cn
 0.0.0.0	c.l.qq.com
@@ -1093,6 +1107,7 @@
 0.0.0.0	puds.test.uae.uc.cn
 0.0.0.0	ab.gaoguang.com
 0.0.0.0	www.fastcache.com.cn
+0.0.0.0	m.vh92e.cn
 0.0.0.0	g.51network.com
 0.0.0.0	edtp.shushu8.com
 0.0.0.0	uk3oi.adgze.cn
@@ -1149,6 +1164,7 @@
 0.0.0.0	yueduqi.baidu.com
 0.0.0.0	image.yiqifa.com
 0.0.0.0	update.5211game.com
+0.0.0.0	m.wc59b.cn
 0.0.0.0	m.laxienian888.com
 0.0.0.0 cms.an.m.liebao.cn
 0.0.0.0 mobile.log.hunantv.com
@@ -1340,7 +1356,9 @@
 0.0.0.0	news.s9377.com
 0.0.0.0	d9.sina.com.cn
 0.0.0.0	servicer.adskeeper.co.uk
+0.0.0.0	s.e739.cn
 0.0.0.0	rtbstat.zcdsp.com
+0.0.0.0	20190624.logic.cpm.cm.kankan.com
 0.0.0.0	mse.mbm.cn.miaozhen.com
 0.0.0.0	s12.cnzz.com
 0.0.0.0	www.ailicee.com
@@ -1429,6 +1447,7 @@
 0.0.0.0	sh.qihoo.com
 0.0.0.0	www.qchannel01.cn
 0.0.0.0 fotacontrol.adfuture.cn
+0.0.0.0	go.kshks5.site
 0.0.0.0 in.aikan6.com
 0.0.0.0	rem-track.bild.de
 0.0.0.0	statistics.liusha.info
@@ -1520,6 +1539,7 @@
 0.0.0.0	dulife.baidu.com
 0.0.0.0 mp4.res.hunantv.com
 0.0.0.0 flurry.cachefly.net
+0.0.0.0	20190615.logic.cpm.cm.kankan.com
 0.0.0.0 display.adhudong.com
 0.0.0.0 ads.google.com
 0.0.0.0	dps.shouji56.com
@@ -1626,6 +1646,7 @@
 0.0.0.0	v1-feed.idreamsky.com
 0.0.0.0	20170213.float.kankan.com
 0.0.0.0	xxxa.aikeapp.com
+0.0.0.0	m.t528zl.cn
 0.0.0.0	outer.anquan.org
 0.0.0.0 lxcdn.dl.files.xiaomi.net
 0.0.0.0	master.wap.dphub.sandai.net
@@ -1706,6 +1727,7 @@
 0.0.0.0	www.jshonghuadq.com
 0.0.0.0	a6s.ve001nz.com
 0.0.0.0	x.bikaer.com
+0.0.0.0	20190617.logic.cpm.cm.kankan.com
 0.0.0.0	js2672.xjzyq.com
 0.0.0.0 pmc-d.openx.net
 0.0.0.0	m.kafka8.com
@@ -1717,6 +1739,7 @@
 0.0.0.0	mm.jgchq.com
 0.0.0.0	1.wps.cn
 0.0.0.0	securepubads.g.doubleclick.net
+0.0.0.0	e.w6o2c.cn
 0.0.0.0 s.jxhcyc.com
 0.0.0.0	t1.jzkapp.com
 0.0.0.0 pcookie.cnzz.com
@@ -1850,7 +1873,6 @@
 0.0.0.0 ad.holaq.com
 0.0.0.0	s.376zf.com
 0.0.0.0 1.allyes.com.cn
-0.0.0.0	20190502.logic.cpm.cm.kankan.com
 0.0.0.0	stat.moliplayer.com
 0.0.0.0	9ll01.com
 0.0.0.0	dm.jinshasi.cn
@@ -1987,6 +2009,7 @@
 0.0.0.0 iflow.uczzd.cn
 0.0.0.0 s.5jjx.net
 0.0.0.0	s116.cnzz.com
+0.0.0.0 j.microad.net
 0.0.0.0 m.airpush.com
 0.0.0.0	d5p.de17a.com
 0.0.0.0	p.skimresources.com
@@ -2039,7 +2062,6 @@
 0.0.0.0	s.mt145.com
 0.0.0.0	s.jlminte.com
 0.0.0.0	js.fengniao.com
-0.0.0.0	20190509.logic.cpm.cm.kankan.com
 0.0.0.0	930.dragonparking.com
 0.0.0.0 wes.df.telemetry.microsoft.com
 0.0.0.0	www.kejet.com
@@ -2061,6 +2083,7 @@
 0.0.0.0 	mpro.baidu.com
 0.0.0.0	js.lpshl.com
 0.0.0.0	js.yiwuds.com
+0.0.0.0	e.ailix.cn
 0.0.0.0	e.lyjz001.com
 0.0.0.0	w.sharethis.com
 0.0.0.0	www.lm.cccab.club
@@ -2110,11 +2133,12 @@
 0.0.0.0 activate.adobe.com
 0.0.0.0	m.ihais.com
 0.0.0.0	yes1.feng.com
-0.0.0.0 blogad02.myweb.hinet.net
 0.0.0.0	static.hotjar.com
+0.0.0.0 blogad02.myweb.hinet.net
 0.0.0.0	dl.37wan.cn
 0.0.0.0	adscdn.baidu.com
 0.0.0.0	www.ipinyou.com.cn
+0.0.0.0	m.tv12h.cn
 0.0.0.0	stat.it168.com
 0.0.0.0	30350f.com
 0.0.0.0	count49.51yes.com
@@ -2135,6 +2159,7 @@
 0.0.0.0	img.wan.sogou.com
 0.0.0.0	ad3.udn.com
 0.0.0.0 www.adsmogo.com
+0.0.0.0	20190631.logic.cpm.cm.kankan.com
 0.0.0.0	ads.eu.msn.com
 0.0.0.0 img-ad.oupeng.com
 0.0.0.0	js.daxueshengqiandai.com
@@ -2152,10 +2177,12 @@
 0.0.0.0 pvlog.hd.baofeng.com
 0.0.0.0	i.xdywlw.cn
 0.0.0.0	au.w.inmobi.com
+0.0.0.0	m.6g53b.cn
 0.0.0.0 ad-count.adwo.com
 0.0.0.0	1.modzj.net
 0.0.0.0	utrack.hexun.com
 0.0.0.0	hh.livehapp.com
+0.0.0.0	e.ki18c.cn
 0.0.0.0	in.jxhcyc.com
 0.0.0.0 static.adwo.com
 0.0.0.0	m.vaxyz.com
@@ -2182,6 +2209,7 @@
 0.0.0.0	ad-data.starschina.com
 0.0.0.0	seavideo-ak.espn.go.com
 0.0.0.0	tracking2.channeladvisor.com
+0.0.0.0	kkdm.dhgdp.cn
 0.0.0.0	e.xmgysweb.com
 0.0.0.0	vs8.gzcu.u3.ucweb.com
 0.0.0.0	ads.ninemsn.com.au
@@ -2219,6 +2247,7 @@
 0.0.0.0 appsupdate.sinaapp.com
 0.0.0.0 count17.51yes.com
 0.0.0.0 144.dragonparking.com
+0.0.0.0	20190626.logic.cpm.cm.kankan.com
 0.0.0.0	zs9.cnzz.com
 0.0.0.0 baichuan.baidu.com
 0.0.0.0 pixel-a.sitescout.com
@@ -2258,6 +2287,7 @@
 0.0.0.0 cookiemapping.wrating.com
 0.0.0.0 spd.atdmt.com
 0.0.0.0 nfdnserror14.wo.com.cn
+0.0.0.0 open-pixon.ads-pixiv.net
 0.0.0.0 brand.sogou.com
 0.0.0.0 mairuan.net
 0.0.0.0	adsence.sogou.com
@@ -2389,6 +2419,7 @@
 0.0.0.0 click.bes.baidu.com
 0.0.0.0	hbdnserror5.wo.com.cn
 0.0.0.0	bd2.jobui.com
+0.0.0.0	20190606.logic.cpm.cm.kankan.com
 0.0.0.0 antivirus.baidu.com
 0.0.0.0 cf.cdn.inmobi.com
 0.0.0.0 valb.atm.youku.com
@@ -2412,6 +2443,7 @@
 0.0.0.0	img1.pcfg.cache.wps.cn
 0.0.0.0	e.ijuny.com
 0.0.0.0	s.liangziweixg.com
+0.0.0.0	m.2v9ml.cn
 0.0.0.0	ll.atdmt.com
 0.0.0.0 pagead2.googlesyndication.com
 0.0.0.0 m.analytics.126.net
@@ -2547,6 +2579,7 @@
 0.0.0.0	a751.oadz.com
 0.0.0.0	rabbit.meitustat.com
 0.0.0.0	c.dokrmob.com
+0.0.0.0	e.8p30k.cn
 0.0.0.0	zh-cn.shenyun.org
 0.0.0.0	click.ganji.com
 0.0.0.0	adx.ads.oppomobile.com
@@ -2569,7 +2602,6 @@
 0.0.0.0	mr.da.netease.com
 0.0.0.0	unipaydl.wostore.cn
 0.0.0.0	vi2.ku6img.net
-0.0.0.0	20190518.logic.cpm.cm.kankan.com
 0.0.0.0	m.ibinp.com
 0.0.0.0 vdapprecv.app.cntvwb.cn
 0.0.0.0 www.lvjian66.com
@@ -2731,12 +2763,15 @@
 0.0.0.0	ws025.coin-hive.com
 0.0.0.0 track-east.mobileadtrading.com
 0.0.0.0 ulink.cc
+0.0.0.0	m.9r48f.cn
 0.0.0.0	l.supfast.net
 0.0.0.0	dl.uu.cc
 0.0.0.0	domed.shenbimall.com
 0.0.0.0	m.assigned.cn
 0.0.0.0	y.pzclw.cn
+0.0.0.0	m.4qn1k.cn
 0.0.0.0 feed.baidu.com
+0.0.0.0 aid.send.microad.jp
 0.0.0.0 ae.bdstatic.com
 0.0.0.0	hdggcdn.bayimob.com
 0.0.0.0	imp.gentags.net
@@ -2770,6 +2805,7 @@
 0.0.0.0	dxprla.m.qxs.la
 0.0.0.0	adpublish.ydstatic.com
 0.0.0.0 img1.km.com
+0.0.0.0	m.xm0t2f.cn
 0.0.0.0	df.telemetry.microsoft.com
 0.0.0.0	u.yiiwoo.com
 0.0.0.0	png.lu.sogoucdn.com
@@ -2798,6 +2834,7 @@
 0.0.0.0	mconedh.cn
 0.0.0.0	g.fastapi.net
 0.0.0.0	js.eyouv.cn
+0.0.0.0	fdd.tianhuafund.cn
 0.0.0.0	count.vrs.sohu.com
 0.0.0.0	ssp.ad.xiaomi.com
 0.0.0.0 count.cpm.cm.kankan.com
@@ -2831,7 +2868,6 @@
 0.0.0.0	app.eduancm.com
 0.0.0.0	4xnh3snt.njylyljg.com
 0.0.0.0	m.aqiudaohang.com
-0.0.0.0	20190511.logic.cpm.cm.kankan.com
 0.0.0.0	www.openx.net
 0.0.0.0 azabu-u.ac.jp
 0.0.0.0	ws005.coin-hive.com
@@ -2861,6 +2897,7 @@
 0.0.0.0 a.m.shuhuangge.org
 0.0.0.0	cdn.dragonstatic.com
 0.0.0.0	h5.baidu.com
+0.0.0.0	e.9mf0a.cn
 0.0.0.0	ws027.coinhive.com
 0.0.0.0	xia.ediuschina.com
 0.0.0.0	tvsohu-cm.cn.miaozhen.com
@@ -2868,9 +2905,11 @@
 0.0.0.0	music.baidu.com
 0.0.0.0 trc.taboola.com
 0.0.0.0 srv.buysellads.com
+0.0.0.0	iiid.bluescream.cn
 0.0.0.0	adpubs.yaolan.com
 0.0.0.0	openstat.net
 0.0.0.0	lbstatic-a.akamaihd.net
+0.0.0.0	m.85rvq.cn
 0.0.0.0	s.lianmeng.360.cn
 0.0.0.0 www.zhzzx.com
 0.0.0.0	img.qtdfg.com
@@ -2894,6 +2933,7 @@
 0.0.0.0	sddnserror3.wo.com.cn
 0.0.0.0	pic.modpi.cn
 0.0.0.0	i.w55c.net
+0.0.0.0	e.6yw7j.cn
 0.0.0.0 download.adsage.com
 0.0.0.0	zs2.cnzz.com
 0.0.0.0	img.sankezhi.cn
@@ -3179,6 +3219,7 @@
 0.0.0.0	sp.fastclick.net
 0.0.0.0	stdl.qq.com
 0.0.0.0	cdn.tinglian.com
+0.0.0.0	e.xm0t2f.cn
 0.0.0.0	static.doublemax.net
 0.0.0.0	photo.welldex.cn
 0.0.0.0 telemetry.urs.microsoft.com
@@ -3224,7 +3265,6 @@
 0.0.0.0 easynews.adsame.com
 0.0.0.0	c.vip97.net
 0.0.0.0	e.xbaiv.com
-0.0.0.0	20190515.logic.cpm.cm.kankan.com
 0.0.0.0	data-news.cdn.cootekservice.com
 0.0.0.0	u.qijads.com
 0.0.0.0 r.browser.miui.com
@@ -3241,6 +3281,7 @@
 0.0.0.0	d4.sina.com.cn
 0.0.0.0 fe1-au.imrworldwide.com
 0.0.0.0	report.adview.cn
+0.0.0.0	siyuanmall.com
 0.0.0.0	c.msn.com.cn
 0.0.0.0	yun.lvehaisen.com
 0.0.0.0	img3.trxxn.com
@@ -3328,6 +3369,7 @@
 0.0.0.0 de.pandora.xiaomi.com
 0.0.0.0 nai.cpxkvc.com
 0.0.0.0	zzy1.mipujia.com
+0.0.0.0	events.browsiprod.com
 0.0.0.0	linglong.supersuer.com
 0.0.0.0 e.inccnd.com
 0.0.0.0	m.wshufa.com
@@ -3391,6 +3433,7 @@
 0.0.0.0 afd.l.google.com
 0.0.0.0	g.hsw.cn
 0.0.0.0	s2.zdmimg.com
+0.0.0.0	xkdi.jiaxinkang.cn
 0.0.0.0	m.cfanm.com
 0.0.0.0 c1.popads.net
 0.0.0.0	2017img.myxh999.com
@@ -3462,6 +3505,7 @@
 0.0.0.0 air.yoyi.com.cn
 0.0.0.0	jfot.e647ob.cn
 0.0.0.0 sec-cdn.static.xiaomi.net
+0.0.0.0	4au.htf16a.cn
 0.0.0.0	www.nicelabel.cc
 0.0.0.0	v1.log.moji.com
 0.0.0.0	dfdd.pandayigou.com
@@ -3579,6 +3623,7 @@
 0.0.0.0	m.1768.com
 0.0.0.0 2052.flash2-http.qq.com
 0.0.0.0	m.wbanv.com
+0.0.0.0	m.jzvog.cn
 0.0.0.0	x.12381236.com
 0.0.0.0 	adm.baidu.com
 0.0.0.0	oascentral.sina.com
@@ -3624,6 +3669,7 @@
 0.0.0.0	e.yjiaj.com
 0.0.0.0 s74.cnzz.com
 0.0.0.0 w.m.taobao.com
+0.0.0.0	m.pt05c.cn
 0.0.0.0	googlecommerce.com
 0.0.0.0	09_19.supfree.net
 0.0.0.0	service.ad.adesk.com
@@ -3649,11 +3695,12 @@
 0.0.0.0 zgty365.com
 0.0.0.0	tj.itlily.com
 0.0.0.0	vvv.lunqudai.com
-0.0.0.0	20190506.logic.cpm.cm.kankan.com
 0.0.0.0	vvv.weixindmp.com
 0.0.0.0	css.asitend.com
 0.0.0.0 ww251.smartadserver.com
 0.0.0.0	cp.003store.com
+0.0.0.0	y.one.impact-ad.jp
+0.0.0.0	mldy.yxxgab.cn
 0.0.0.0	update.minipage.2345.com
 0.0.0.0 s.img.mix.sina.com.cn
 0.0.0.0	cnzz.pygold.net
@@ -3768,6 +3815,7 @@
 0.0.0.0	eng.liveapp.cn
 0.0.0.0 img2.qekun.com
 0.0.0.0	www.jsgo979.com
+0.0.0.0 events.browsiprod.com
 0.0.0.0	static.88lmimg.com
 0.0.0.0	g.hw6.com
 0.0.0.0	bd2.flfgw.cn
@@ -3863,6 +3911,7 @@
 0.0.0.0	imagecache.g.pptv.com
 0.0.0.0	xia.mathtype.cn
 0.0.0.0 dp.559.cc
+0.0.0.0	20190628.logic.cpm.cm.kankan.com
 0.0.0.0 telecommand.telemetry.microsoft.com.nsatc.net
 0.0.0.0	gpydym.cn
 0.0.0.0 slides.discovery.tom.com
@@ -3964,6 +4013,7 @@
 0.0.0.0	fexclick.baidu.com
 0.0.0.0 viqiyi.admaster.com.cn
 0.0.0.0	xxy.nxkycx.com
+0.0.0.0	20190613.logic.cpm.cm.kankan.com
 0.0.0.0	engine.tuia.cn
 0.0.0.0	a.7788xs.net
 0.0.0.0	1.letvlive.com
@@ -4053,6 +4103,7 @@
 0.0.0.0	ads.tripod.lycos.nl
 0.0.0.0	amazon-adsystem.com
 0.0.0.0	ji.8881919.cc
+0.0.0.0	m.n83v0h.cn
 0.0.0.0 cf8d.stat.gw.youmi.net
 0.0.0.0	ediuschina.com
 0.0.0.0 eagledemo.adsame.com
@@ -4194,9 +4245,9 @@
 0.0.0.0	cacaca.sp96878.com
 0.0.0.0 v1.play.log.hunantv.com
 0.0.0.0	m.hjues.com
+0.0.0.0	m.6gv4d.cn
 0.0.0.0	img.hzkcbs.com
 0.0.0.0	www.fffeeeq.com
-0.0.0.0	20190523.logic.cpm.cm.kankan.com
 0.0.0.0	adp.s8bbs.com
 0.0.0.0 s93.cnzz.com
 0.0.0.0 irnvf.lu.sogou.com
@@ -4256,7 +4307,6 @@
 0.0.0.0	m.addthisedge.com
 0.0.0.0	www.pintour.com
 0.0.0.0	kk.chuanke.com
-0.0.0.0	cloud.rovio.com
 0.0.0.0	s.qzkxt.com
 0.0.0.0	sy.shongcheng.com
 0.0.0.0 api.w.inmobi.com
@@ -4292,6 +4342,7 @@
 0.0.0.0	adserve2.tom.com
 0.0.0.0 static.alimama.com
 0.0.0.0 sdkm.w.inmobi.com
+0.0.0.0	m.1qp9k.cn
 0.0.0.0	www.huishenghuiying.com.cn
 0.0.0.0	818.ok365.com
 0.0.0.0	bh.contextweb.com
@@ -4330,6 +4381,7 @@
 0.0.0.0	statictest.fraudmetrix.cn
 0.0.0.0	ark.letv.com
 0.0.0.0	plz.jandan.net
+0.0.0.0 www.stack-sonar.com
 0.0.0.0	pagechoice.net
 0.0.0.0 vjcyehtqm9.me
 0.0.0.0	alicdnv2.sitemonitor.cn.miaozhen.com
@@ -4529,6 +4581,7 @@
 0.0.0.0 ad.dev.360.cn
 0.0.0.0	xhtd.99hg.wang
 0.0.0.0 oascentral.sina.com
+0.0.0.0	m.24ihe.cn
 0.0.0.0	t.arrows-hitech.com
 0.0.0.0	m.cgaij.com
 0.0.0.0	script.vccoo.com
@@ -4591,7 +4644,6 @@
 0.0.0.0	a6s.chaojilamei.cn
 0.0.0.0 wl.51taifu.com
 0.0.0.0	ad.holaq.com
-0.0.0.0	20190524.logic.cpm.cm.kankan.com
 0.0.0.0 sax5.sina.com.cn
 0.0.0.0	wncs.7ez4.cn
 0.0.0.0	xia.mycleanmymac.com
@@ -4605,6 +4657,7 @@
 0.0.0.0	imp.adsmogo.net
 0.0.0.0	usr.mgid.com
 0.0.0.0	dvsend.china.com
+0.0.0.0	20190604.logic.cpm.cm.kankan.com
 0.0.0.0	avn.innity.com
 0.0.0.0 vhunantv.admaster.com.cn
 0.0.0.0	img.nsywb.com
@@ -4740,6 +4793,7 @@
 0.0.0.0	movie.miaiche.cn
 0.0.0.0	msspjh.emarbox.com
 0.0.0.0	www.pp9899.com
+0.0.0.0	20190620.logic.cpm.cm.kankan.com
 0.0.0.0	ad.bloggerads.net
 0.0.0.0 smt.admaster.com.cn
 0.0.0.0	js916.lishuanghao.com
@@ -4881,6 +4935,7 @@
 0.0.0.0	in.qzkxt.com
 0.0.0.0	llsp.gfd80.com
 0.0.0.0	m.aquns.com
+0.0.0.0	m.9z41f.cn
 0.0.0.0	m.l93stb.cn
 0.0.0.0	samba.adsame.com
 0.0.0.0	lcktg00.com
@@ -4935,6 +4990,7 @@
 0.0.0.0	www.somennew.com
 0.0.0.0	shankejingling.com
 0.0.0.0	paopao.iqiyi.com
+0.0.0.0	20190619.logic.cpm.cm.kankan.com
 0.0.0.0 kr.sybspools.com
 0.0.0.0	m.vmiua.com
 0.0.0.0	smart.789.image.mucang.cn
@@ -5104,6 +5160,7 @@
 0.0.0.0 news.push.126.net
 0.0.0.0	gg.kugou.com
 0.0.0.0 count12.51yes.com
+0.0.0.0	e.6g53b.cn
 0.0.0.0	hydra.alibaba.com
 0.0.0.0	cpu-admin.baidu.com
 0.0.0.0	m.qpic.cn
@@ -5236,10 +5293,10 @@
 0.0.0.0 xia.vegaschina.cn
 0.0.0.0	ads.mdotm.com
 0.0.0.0	static.bshare.cn
-0.0.0.0	20190514.logic.cpm.cm.kankan.com
 0.0.0.0	ww202.keyyou.net
 0.0.0.0 epochtimes.org
 0.0.0.0 png.lu.sogoucdn.com
+0.0.0.0	m.07seb.cn
 0.0.0.0 pcbrowser.dd.qq.com
 0.0.0.0 sax7.sina.com.cn
 0.0.0.0	m.gwdqp.com
@@ -5346,6 +5403,7 @@
 0.0.0.0 v3.jiathis.com
 0.0.0.0	aec.shjk123.net
 0.0.0.0	api.youxiaoad.com
+0.0.0.0	m.o89ia.cn
 0.0.0.0	res.icast.cn
 0.0.0.0	s75.cnzz.com
 0.0.0.0 	c.baidu.com
@@ -5354,6 +5412,7 @@
 0.0.0.0	ws024.authedmine.com
 0.0.0.0 ss.cnnic.cn
 0.0.0.0	rs.sinajs.cn
+0.0.0.0	20190622.logic.cpm.cm.kankan.com
 0.0.0.0	e.ituiy.com
 0.0.0.0	malacca.inveno.com
 0.0.0.0	files.adform.net
@@ -5448,6 +5507,7 @@
 0.0.0.0	m.feisia1.cn
 0.0.0.0	rt.funshion.net
 0.0.0.0 s94.cnzz.com
+0.0.0.0	e.41zna.cn
 0.0.0.0	gz.hxdaka.com
 0.0.0.0	img.kuwanpx.com
 0.0.0.0	cnnic.cn
@@ -5483,6 +5543,7 @@
 0.0.0.0 same.mzy2014.com
 0.0.0.0	m.yooli.com
 0.0.0.0	zixun.oupeng.com
+0.0.0.0	m.08jq9b.cn
 0.0.0.0	s26.cnzz.com
 0.0.0.0 cdn.cmop.mgtv.com
 0.0.0.0	z.xc0429.com
@@ -5548,6 +5609,7 @@
 0.0.0.0	ce.baidu.com
 0.0.0.0	www.goubt.top
 0.0.0.0	cdn.adsk2.co
+0.0.0.0	www.claiks.com
 0.0.0.0	bartender.cc
 0.0.0.0	s.uc627.com
 0.0.0.0	m.cuoss.com
@@ -5611,6 +5673,7 @@
 0.0.0.0	fpbb.aizhan.com
 0.0.0.0 dis.criteo.com
 0.0.0.0 cws-cctv.conviva.com
+0.0.0.0	m.65r3g.cn
 0.0.0.0	m.qdiut.com
 0.0.0.0	www.adsmogo.com
 0.0.0.0 ws009.coinhive.com
@@ -5691,12 +5754,14 @@
 0.0.0.0	msnclick.wrating.com
 0.0.0.0 settings.crashlytics.com
 0.0.0.0	aa.cywl5.com
+0.0.0.0	diox.doowe.cn
 0.0.0.0	m.xcfwnhj.cn
 0.0.0.0	ww6.adm-cnzz.net
 0.0.0.0	track.china.com
 0.0.0.0	rich.kuwo.cn
 0.0.0.0 rs2.qq.com
 0.0.0.0 moupdate10332052.wps.cn
+0.0.0.0	m.to9g1f.cn
 0.0.0.0	ret.xinlongrubber.com
 0.0.0.0	eus.rubiconproject.com
 0.0.0.0	58749.admaster.com.cn
@@ -5710,6 +5775,7 @@
 0.0.0.0 count27.51yes.com
 0.0.0.0	tjpv.twh5.com
 0.0.0.0	afp.m1905.com
+0.0.0.0	e.2v9ml.cn
 0.0.0.0	qhm1.cnzz.com
 0.0.0.0 dspcm.brand.sogou.com
 0.0.0.0	js3987.vdhufs.com
@@ -5721,12 +5787,12 @@
 0.0.0.0	images.ad7.com
 0.0.0.0 yuanchengxiezuo.com
 0.0.0.0	kv.stat.nearme.com.cn
-0.0.0.0	20190529.logic.cpm.cm.kankan.com
 0.0.0.0	catalog.video.msn.com
 0.0.0.0	bmw2ep.paomifen.cn
 0.0.0.0	static.ads-twitter.com
 0.0.0.0	img.wuben56.com
 0.0.0.0 c.domob.cn
+0.0.0.0	m.5pzs0o.cn
 0.0.0.0	rj.baidu.com
 0.0.0.0 mmv.admob.com
 0.0.0.0 web.51.la
@@ -5762,11 +5828,13 @@
 0.0.0.0 c.amazon-adsystem.com
 0.0.0.0 e.rpaulfrank.com
 0.0.0.0	player.quankan.tv
+0.0.0.0	apple.pvxt.net
 0.0.0.0 fge9vbrzwt.bid
 0.0.0.0	tracker.sns.iqiyi.com
 0.0.0.0 tj.b.qq.com
 0.0.0.0	play.baidu.com
 0.0.0.0	logic.cpm.cm.kankan.com
+0.0.0.0	ssl2.dottexpress.com
 0.0.0.0	www.w1a.cc
 0.0.0.0	www.22222jsc.com
 0.0.0.0 stadig.ifeng.com
@@ -6032,6 +6100,7 @@
 0.0.0.0	sm1.todgo.com
 0.0.0.0	cfdac.8g0ymk.cn
 0.0.0.0	ss.missyouxi.com
+0.0.0.0	vpgf.qianyilamian.cn
 0.0.0.0	e.szqifu.com
 0.0.0.0 r.admob.com
 0.0.0.0	www.googletagservices.com
@@ -6064,6 +6133,7 @@
 0.0.0.0	urh.tylll.com
 0.0.0.0 cm.vamaker.com
 0.0.0.0	static.snapmobile.asia
+0.0.0.0	20190607.logic.cpm.cm.kankan.com
 0.0.0.0	js.start1999.com
 0.0.0.0	api.ijunhai.com
 0.0.0.0 events.appsflyer.com
@@ -6094,6 +6164,7 @@
 0.0.0.0	baidu.cybcyw.com
 0.0.0.0	json.gewuwen.com
 0.0.0.0	rtb.adview.cn
+0.0.0.0	pixon.ads-pixiv.net
 0.0.0.0	s.hnruisi.com
 0.0.0.0	ssh.jsyzw132.com
 0.0.0.0	snippet.pos.baidu.com
@@ -6177,6 +6248,7 @@
 0.0.0.0 flurry.com
 0.0.0.0	adsystem.wasu.tv
 0.0.0.0	bshare.optimix.asia
+0.0.0.0	c.v-meng.org
 0.0.0.0 cpro.baidu.com
 0.0.0.0	adm0.autoimg.cn
 0.0.0.0	m.cioysg.com
@@ -6212,7 +6284,6 @@
 0.0.0.0	hv.code.tanwanyx.com
 0.0.0.0	agoodm.m.taobao.com
 0.0.0.0	js.kqy1.com
-0.0.0.0	20190517.logic.cpm.cm.kankan.com
 0.0.0.0	ad.shuoshuomi.com
 0.0.0.0 kob.adxkj.com
 0.0.0.0	s76.cnzz.com
@@ -6443,7 +6514,6 @@
 0.0.0.0	top.h.qhimg.com
 0.0.0.0	js.cnmo.com
 0.0.0.0	iutr.uozwys.top
-0.0.0.0	20190530.logic.cpm.cm.kankan.com
 0.0.0.0 jpg.cooguo.com
 0.0.0.0	m.frjxdv.cn
 0.0.0.0	js.jianbaimei.com
@@ -6534,6 +6604,7 @@
 0.0.0.0	same.eastmoney.com
 0.0.0.0	stat.sd.360.cn
 0.0.0.0	pub.sitetag.us
+0.0.0.0	photo.njlymyd.cn
 0.0.0.0	i.adsame.com
 0.0.0.0	lxcdn.dl.files.xiaomi.net
 0.0.0.0	yihu.s06th.cn
@@ -6560,6 +6631,7 @@
 0.0.0.0	pv.xmp.stat.xunlei.com
 0.0.0.0	lyapi.1391.com
 0.0.0.0	m.chenhuia.com
+0.0.0.0	ivgl.czyiming.club
 0.0.0.0	s.hzht666.com
 0.0.0.0 x.jd.com
 0.0.0.0	pc.boxshows.com
@@ -6751,6 +6823,7 @@
 0.0.0.0	js986.cnbole.net
 0.0.0.0	keystone.mwbsys.com
 0.0.0.0	fz.letv.com
+0.0.0.0	m.qj10b.cn
 0.0.0.0	apihk.growingio.com
 0.0.0.0	s.80sjw.com
 0.0.0.0	s.jghcy.com
@@ -6792,6 +6865,7 @@
 0.0.0.0	www.laomaotao.net
 0.0.0.0	r.dmp.sina.cn
 0.0.0.0	adsyndication.msn.com
+0.0.0.0 static.hotjar.com
 0.0.0.0 tjs.sjs.sinajs.cn
 0.0.0.0	youmi.net
 0.0.0.0	js.xuexila.com
@@ -6802,6 +6876,7 @@
 0.0.0.0 m.panda.voiceads.cn
 0.0.0.0	ar.atwola.com
 0.0.0.0	pclog.dftoutiao.com
+0.0.0.0	t.91dijiu.com
 0.0.0.0	houyi.logger.baofeng.com
 0.0.0.0	s.doyo.cn
 0.0.0.0	js.ad-stir.com
@@ -6919,6 +6994,7 @@
 0.0.0.0	ww8.onetad.com
 0.0.0.0	creative.1111cpc.com
 0.0.0.0	wl.houyi.baofeng.net
+0.0.0.0	m.arxnfj14120.cn
 0.0.0.0	www.gzhctryy.com
 0.0.0.0	m.wbeiz.com
 0.0.0.0	r.5207470.com
@@ -6999,6 +7075,7 @@
 0.0.0.0	fx.worldqueen.org.cn
 0.0.0.0	j.zhdap.com
 0.0.0.0	static.chartbeat.com
+0.0.0.0	e.ygqna.cn
 0.0.0.0	h02.hxsame.hexun.com
 0.0.0.0	20170229.logic.cpm.cm.kankan.com
 0.0.0.0	w.oumazg.com
@@ -7028,6 +7105,7 @@
 0.0.0.0	www.soua.com
 0.0.0.0	s.hyz86.com
 0.0.0.0	www1.baidu.com
+0.0.0.0	m.v76rk.cn
 0.0.0.0 s16.cnzz.com
 0.0.0.0 dygang.kkcaicai.com
 0.0.0.0	static.dianru.com
@@ -7038,6 +7116,7 @@
 0.0.0.0	dx01.daomengad.com
 0.0.0.0	attach.s8bbs.com
 0.0.0.0	www.hzxfmc.com
+0.0.0.0	setqre.cn
 0.0.0.0 show.re.taobao.com
 0.0.0.0	e.wikigifth.com
 0.0.0.0	ads.bssdl.kugou.com
@@ -7048,7 +7127,9 @@
 0.0.0.0 slog.sina.cn
 0.0.0.0	20170203.biz5.kankan.com
 0.0.0.0	pic.shadowsmell.com
+0.0.0.0	e.wc59b.cn
 0.0.0.0	sdn.gongkao.hn.cn
+0.0.0.0	20190616.logic.cpm.cm.kankan.com
 0.0.0.0 mou.niu.xunlei.com
 0.0.0.0	1.up.qingdaonews.com
 0.0.0.0	b.polkoa.com
@@ -7056,6 +7137,7 @@
 0.0.0.0 v7.cnzz.com
 0.0.0.0	www.hisense.cn
 0.0.0.0 appdownload.alicdn.com
+0.0.0.0	20190625.logic.cpm.cm.kankan.com
 0.0.0.0	gamebox.kugou.com
 0.0.0.0 jldnserror2.wo.com.cn
 0.0.0.0	jc.szjianxin.net
@@ -7070,12 +7152,14 @@
 0.0.0.0	bc.geocities.yahoo.co.jp
 0.0.0.0 pcxzo.pluto.sogou.com
 0.0.0.0	cr.m.liebao.cn
+0.0.0.0	license.piriform.com
 0.0.0.0	rfv.ws7j.com
 0.0.0.0	ads.aol.co.uk
 0.0.0.0	sax3.sina.com.cn
 0.0.0.0	pcaliyun.res.mgtv.com
 0.0.0.0	mhdtestks3.1391.com
 0.0.0.0	pixel.vihub.ru
+0.0.0.0	m.nq37f.cn
 0.0.0.0	e.abeij.com
 0.0.0.0 q.i.gdt.qq.com
 0.0.0.0	l.adiers.com
@@ -7124,7 +7208,6 @@
 0.0.0.0	t.7788669.com
 0.0.0.0 nfdnserror7.wo.com.cn
 0.0.0.0 tree.logger.baofeng.com
-0.0.0.0	20190508.logic.cpm.cm.kankan.com
 0.0.0.0 www.flurry.com
 0.0.0.0	dock.inmobi.com
 0.0.0.0	shtt.shuqw.com
@@ -7136,6 +7219,7 @@
 0.0.0.0 ws.voiceads.cn
 0.0.0.0	new.ltheanine.cn
 0.0.0.0 setting.crashlytics.com
+0.0.0.0 vars.hotjar.com
 0.0.0.0	www.hmnjf.com
 0.0.0.0	app.shandjj.com
 0.0.0.0	mb.lenovomm.com
@@ -7175,6 +7259,7 @@
 0.0.0.0	vyk.admaster.com.cn
 0.0.0.0 kwcscdn.000dn.com
 0.0.0.0	www.hypersnap.net
+0.0.0.0	m.89bia.cn
 0.0.0.0	m.fhxsw.org
 0.0.0.0	su.bdstatic.com
 0.0.0.0 server-stockh.imrworldwide.com
@@ -7268,7 +7353,6 @@
 0.0.0.0	vvv.sqjgdx.com
 0.0.0.0	js.jqsex.com
 0.0.0.0 impservice.dict.youdao.com
-0.0.0.0	gsp2.baidu.com
 @site-foregin/news
 0.0.0.0 scimg.27admin.com
 0.0.0.0	wan.sogou.com
@@ -7396,6 +7480,7 @@
 0.0.0.0	tap-t.rubiconproject.com
 0.0.0.0	s.xmcmn.com
 0.0.0.0 z.clickvip.shop
+0.0.0.0 y.one.impact-ad.jp
 0.0.0.0 wuqdebjfhjas.bid
 0.0.0.0 hz.mmstat.com
 0.0.0.0	kl.hfdforging.com
@@ -7460,6 +7545,7 @@
 0.0.0.0	m.huashengtai.net
 0.0.0.0	js1597.51weidashi.com
 0.0.0.0	hq.appsflyer.com
+0.0.0.0	open-pixon.ads-pixiv.net
 0.0.0.0 admin.cooguo.com
 0.0.0.0	tap.rubiconproject.com
 0.0.0.0 trackersimulator.org
@@ -7593,8 +7679,10 @@
 0.0.0.0 cpro2.baidustatic.com
 0.0.0.0	lz.ychun03.com
 0.0.0.0	acuityplatform.com
+0.0.0.0	tag-store.ads-pixiv.net
 0.0.0.0	minfo.wps.cn
 0.0.0.0	mxvp-feature-toggle-prod-1.zenmxapps.com
+0.0.0.0	8t2.di91ba.cn
 0.0.0.0	www.a0b11.com
 0.0.0.0	dw-online.ksosoft.com
 0.0.0.0	dispenser-rtb.sape.ru
@@ -7629,6 +7717,7 @@
 0.0.0.0	msclick2.kuwo.cn
 0.0.0.0	motu.pagechoice.net
 0.0.0.0	c.8l8l.com
+0.0.0.0	e.21lxb.cn
 0.0.0.0	referrer.disqus.com
 0.0.0.0	static1.2436.cn
 0.0.0.0 4009997658.com
@@ -7860,6 +7949,7 @@
 0.0.0.0	bigdata.adsunflower.com
 0.0.0.0	m.wuqutu.com
 0.0.0.0	xyy.code.weddingeeos.com
+0.0.0.0	www.kkdsdlc.com
 0.0.0.0 stm-collect.cn.miaozhen.com
 0.0.0.0 q.domob.cn
 0.0.0.0	good.ta80.com
@@ -7877,6 +7967,7 @@
 0.0.0.0	dao.baidu.com
 0.0.0.0	12i.cn
 0.0.0.0 countt.51yes.com
+0.0.0.0	e.fdp29b.cn
 0.0.0.0	gg.caixin.com
 0.0.0.0	adsolution.imtt.qq.com
 0.0.0.0	m.qbenu.com
@@ -7892,7 +7983,6 @@
 0.0.0.0	yingxiao.baidu.com
 0.0.0.0 a.cnzz.com
 0.0.0.0	m.gdyyyg.net
-0.0.0.0	gsp3.baidu.com
 0.0.0.0	www.xmnmeu.cn
 0.0.0.0 rc.hystq.com
 0.0.0.0	m.1680go.com
@@ -8143,6 +8233,7 @@
 0.0.0.0	www.zamplus.com
 0.0.0.0	www.winads.cn
 0.0.0.0	dist.ad-stir.com
+0.0.0.0	b.mlion.cn
 0.0.0.0 tracking-server-prod-1.zenmxapps.com
 0.0.0.0	photo.ccjxybj.cn
 0.0.0.0	www.gome.com.cn
@@ -8265,7 +8356,6 @@
 0.0.0.0	adx-static.ksosoft.com
 0.0.0.0 api.jr.mi.com
 0.0.0.0	count43.51yes.com
-0.0.0.0	20190519.logic.cpm.cm.kankan.com
 0.0.0.0 x.vamaker.com
 0.0.0.0	zgty365.com
 0.0.0.0	s.zlongad.com
@@ -8291,6 +8381,7 @@
 0.0.0.0	sv719.dreamdays.cn
 0.0.0.0	vip.51.la
 0.0.0.0	livem.l.qq.com
+0.0.0.0 jgl.microad.net
 0.0.0.0	m.future888.net
 0.0.0.0 cj.qidian.com
 0.0.0.0 js3810.zhudiaosz.com
@@ -8366,7 +8457,6 @@
 0.0.0.0	m.duias.com
 0.0.0.0	dywg.dayoo.com
 0.0.0.0	m.wcaos.com
-0.0.0.0	20190528.logic.cpm.cm.kankan.com
 0.0.0.0 www.i1236.net
 0.0.0.0	bitauto.irs01.com
 0.0.0.0	www.adpolestar.net
@@ -8423,6 +8513,7 @@
 0.0.0.0	store.tv.api.3g.youku.com
 0.0.0.0	home.baidu.com
 0.0.0.0	dspimg.adsame.com
+0.0.0.0	m.97tuk.cn
 0.0.0.0	t10.yijia2009.com
 0.0.0.0	www.aafanke.cc
 0.0.0.0	s4.histats.com
@@ -8523,7 +8614,6 @@
 0.0.0.0	d.domob.cn
 0.0.0.0	img1.trxxn.com
 0.0.0.0	mb.yidianzixun.com
-0.0.0.0	20190526.logic.cpm.cm.kankan.com
 0.0.0.0	js3.users.51.la
 0.0.0.0	e.qingzhencai.net
 0.0.0.0	pcd.autohome.com.cn
@@ -8532,7 +8622,6 @@
 0.0.0.0	sjj.jsyjwj.com
 0.0.0.0	logstat.caixin.com
 0.0.0.0	sdk.mediav.com
-0.0.0.0	20190521.logic.cpm.cm.kankan.com
 0.0.0.0	p3.l.qq.com
 0.0.0.0	vol.txdwc.cn
 0.0.0.0	mydisplay.ctfile.com
@@ -8592,6 +8681,7 @@
 0.0.0.0	e.vbanm.com
 0.0.0.0	mobileads.google.com
 0.0.0.0	vmjjzk.cn
+0.0.0.0	e.95z3a.cn
 0.0.0.0	ad.api.mobile.youku.com
 0.0.0.0	ads.service.kugou.com
 0.0.0.0 z5.cnzz.com
@@ -8654,6 +8744,7 @@
 0.0.0.0 d8.sinaimg.cn
 0.0.0.0	cdn.iclicash.com
 0.0.0.0	ad.pixnet.in
+0.0.0.0	m.fu64b.cn
 0.0.0.0	ifacelog.iqiyi.com
 0.0.0.0	intf.cnzz.com
 0.0.0.0 admeld.adnxs.com
@@ -8714,7 +8805,6 @@
 0.0.0.0	img.taotaosou.cn
 0.0.0.0	omg.inte.sogoucdn.com
 0.0.0.0	rd.ane.yahoo.co.jp
-0.0.0.0	20190503.logic.cpm.cm.kankan.com
 0.0.0.0	m.zhuyuanp.top
 0.0.0.0	adm2.autoimg.cn
 0.0.0.0	wxggtg.dre8.com
@@ -8739,6 +8829,7 @@
 0.0.0.0	m.du1du.org
 0.0.0.0 mipcache.bdstatic.com
 0.0.0.0	bm.alimama.cn
+0.0.0.0	m.61lvi.cn
 0.0.0.0	fen.dkdlsj.com
 0.0.0.0	e.wcaos.com
 0.0.0.0	img1.sj.qq.com
@@ -8801,6 +8892,7 @@
 0.0.0.0	acjs.aliyun.com
 0.0.0.0 p.appjiagu.com
 0.0.0.0	m.sdhzstone.net
+0.0.0.0	e.80o4j.cn
 0.0.0.0	i.jiathis.com
 0.0.0.0 nsclickvideo.baidu.com
 0.0.0.0 hidden-master.linezing.com
@@ -8820,6 +8912,7 @@
 0.0.0.0	a.union.mi.com
 0.0.0.0	apk.fgzba.com
 0.0.0.0	vbaiu.com
+0.0.0.0	api.stack-sonar.com
 0.0.0.0	cm.gtags.net
 0.0.0.0	s.wapadv.com
 0.0.0.0	usuf.candukang.cn
@@ -9030,6 +9123,7 @@
 0.0.0.0	www.hiapk.com
 0.0.0.0	zs16.cnzz.com
 0.0.0.0	db2.fuz.cc
+0.0.0.0	aaddss.tohomh.com
 0.0.0.0	news.xueyanshan.com
 0.0.0.0 cmc.tanx.com
 0.0.0.0	ww78.onetad.com
@@ -9092,7 +9186,6 @@
 0.0.0.0	m.doodlemobile.com
 0.0.0.0 samrt.adsame.com
 0.0.0.0	vip2.media8.cn
-0.0.0.0	20190505.logic.cpm.cm.kankan.com
 0.0.0.0 ad.toutiao.com
 0.0.0.0	sestat.baidu.com
 0.0.0.0	r.l.cp31.ott.cibntv.net
@@ -9103,6 +9196,7 @@
 0.0.0.0	m.hchik.com
 0.0.0.0	adstream.123.sogoucdn.com
 0.0.0.0	static.wooboo.com.cn
+0.0.0.0 pixon.ads-pixiv.net
 0.0.0.0 c.sz.gt.igexin.com
 0.0.0.0	cfg-md.gridsumdissector.com
 0.0.0.0	secure.fastclick.net
@@ -9189,7 +9283,6 @@
 0.0.0.0	m.s52dv.com
 0.0.0.0 ac3.msn.com
 0.0.0.0	20170226.logic.cpm.cm.kankan.com
-0.0.0.0	20190512.logic.cpm.cm.kankan.com
 0.0.0.0 img1.pcfg.cache.wps.cn
 0.0.0.0	ap.ksrong.com
 0.0.0.0 tracking.miui.com
@@ -9228,6 +9321,7 @@
 0.0.0.0	i.liadm.com
 0.0.0.0	pass2.soogif.com
 0.0.0.0	logs.51cto.com
+0.0.0.0	m.479db.cn
 0.0.0.0	stat.chinaso.com
 0.0.0.0	weq.me
 0.0.0.0	a.mct01.com
@@ -9299,6 +9393,7 @@
 0.0.0.0	e.60608787.com
 0.0.0.0	wan.rising.cn
 0.0.0.0	www.93vitui.com
+0.0.0.0	20190611.logic.cpm.cm.kankan.com
 0.0.0.0	hidden-master.linezing.com
 0.0.0.0	rjgw.theta.sogou.com
 0.0.0.0	setting.crashlytics.com
@@ -9389,6 +9484,7 @@
 0.0.0.0	mlt01.com
 0.0.0.0	s.bccyyc.com
 0.0.0.0	stats.guess.tf.360.cn
+0.0.0.0	ieju.zgtwpscw.cn
 0.0.0.0	baike.baidu.com
 0.0.0.0 s140.cnzz.com
 0.0.0.0	adinf.voole.com
@@ -9467,6 +9563,7 @@
 0.0.0.0	zhuichaguoji.org
 0.0.0.0	img.dajibai.com
 0.0.0.0	j.qiqivv.com
+0.0.0.0	netsop.cn
 0.0.0.0	gggo.xmbhj.com
 0.0.0.0	e.tspric.cn
 0.0.0.0	c.whytoss.com
@@ -9502,7 +9599,6 @@
 0.0.0.0	kn.aishake.cn
 0.0.0.0	js3810.zhudiaosz.com
 0.0.0.0	secure.adnxs.com
-0.0.0.0	pic2016.ytqmx.com
 0.0.0.0	wb.brand.sogou.com
 0.0.0.0	ad-android.51wnl.com
 0.0.0.0	qqshow2-item.qq.com
@@ -9725,6 +9821,7 @@
 0.0.0.0	xia.kingdeecn.cn
 0.0.0.0	20170209.biz5.kankan.com
 0.0.0.0	j.faacliltate.com
+0.0.0.0	m.1x3td.cn
 0.0.0.0	m.hbans.com
 0.0.0.0 hao549.com
 0.0.0.0 web.sogou.com
@@ -9930,6 +10027,7 @@
 0.0.0.0	ecmc.bdimg.com
 0.0.0.0 ws.sj.qq.com
 0.0.0.0	js.mbaidu.top
+0.0.0.0	vars.hotjar.com
 0.0.0.0	hiadscvd.cezici.cn
 0.0.0.0 ex.umengcloud.com
 0.0.0.0 ediuschina.com
@@ -9940,6 +10038,7 @@
 0.0.0.0	open.baidu.com
 0.0.0.0 www.jisucn.com
 0.0.0.0	spapi.i-mobile.co.jp
+0.0.0.0	e.89bia.cn
 0.0.0.0	www.5066.net
 0.0.0.0	www.5293.com
 0.0.0.0	m.41fsxa.cn
@@ -9990,7 +10089,6 @@
 0.0.0.0	s.ndtzx.com
 0.0.0.0	hl2rcv.adobe.com
 0.0.0.0	www.nmpcdn.com
-0.0.0.0	click.suning.cn
 0.0.0.0	www.weiguizhizuo.com
 0.0.0.0	lx-upload-log.yidianzixun.com
 0.0.0.0	s.huayi65.com
@@ -10074,6 +10172,7 @@
 0.0.0.0	server-us.imrworldwide.com
 0.0.0.0	zjs.zzad.com
 0.0.0.0	d6.mobaders.com
+0.0.0.0	m.ailix.cn
 0.0.0.0	baitong.baidu.com
 0.0.0.0	um.simpli.fi
 0.0.0.0	hypersnap.net
@@ -10150,6 +10249,7 @@
 0.0.0.0	rd.wan.360.cn
 0.0.0.0	a.xinwenge.net
 0.0.0.0	www.oollttqq.com
+0.0.0.0	20190602.logic.cpm.cm.kankan.com
 0.0.0.0	www.gouzhibao.cn
 0.0.0.0 midinfo.baofeng.com
 0.0.0.0	n.ma.social-touch.com
@@ -10268,6 +10368,7 @@
 0.0.0.0 co.dtech.baofeng.com
 0.0.0.0 mqqadr.reader.qq.com
 0.0.0.0	cm.pos.baidu.com
+0.0.0.0	m.0vj6i.cn
 0.0.0.0	e.ljuer.com
 0.0.0.0	m.ybeih.com
 0.0.0.0	nh.miaozhu66.com
@@ -10329,6 +10430,7 @@
 0.0.0.0	ssp.1rtb.com
 0.0.0.0	api.appodeal.com
 0.0.0.0	m.6i9th.cn
+0.0.0.0	m.s76xid.cn
 0.0.0.0 vtechweb.adsame.com
 0.0.0.0 t.youmi.net
 0.0.0.0 googletagmanager.com
@@ -10402,6 +10504,7 @@
 0.0.0.0	dianrui.com
 0.0.0.0 party-nngvitbizn.now.sh
 0.0.0.0 s.nxrxt.com
+0.0.0.0	m.sz05f.cn
 0.0.0.0	qiyezs.ejunshi.com
 0.0.0.0 ws028.coinhive.com
 0.0.0.0	qianclick.baidu.com
@@ -10416,11 +10519,13 @@
 0.0.0.0	www.abbyychina.com
 0.0.0.0 entry.baidu.com
 0.0.0.0	dougou88.com
+0.0.0.0	20190614.logic.cpm.cm.kankan.com
 0.0.0.0	s.ybnrm.com
 0.0.0.0	aper.zhfosenghtr.com
 0.0.0.0 adgeo.163.com
 0.0.0.0	www.xianliao.me
 0.0.0.0 mhradio.org
+0.0.0.0	20190627.logic.cpm.cm.kankan.com
 0.0.0.0	pr.da.netease.com
 0.0.0.0	s87.cnzz.com
 0.0.0.0	wx.zx590.com
@@ -10508,6 +10613,7 @@
 0.0.0.0	www.beintoo.com
 0.0.0.0 aa.zldh123.com
 0.0.0.0	20170217.biz5.kankan.com
+0.0.0.0	e.s76xid.cn
 0.0.0.0	x.l.qq.com
 0.0.0.0 tk.optaim.com
 0.0.0.0	cnf.adbana.com
@@ -10577,6 +10683,7 @@
 0.0.0.0	click-cn.plista.com
 0.0.0.0 win.gdt.qq.com
 0.0.0.0	a.hpg.cn.miaozhen.com
+0.0.0.0	jgl.microad.net
 0.0.0.0	focusbaiduafp.allyes.com
 0.0.0.0	c.xilongfuwu.com
 0.0.0.0	tk.baidu.com
@@ -10611,6 +10718,7 @@
 0.0.0.0 cpro2.baidu.com
 0.0.0.0	guess.union2.50bang.org
 0.0.0.0	m.mansorychina.net
+0.0.0.0	m.408uo.cn
 0.0.0.0	a.bmwen.com
 0.0.0.0	m.themee.cn
 0.0.0.0	userimg.qunar.com
@@ -10650,6 +10758,7 @@
 0.0.0.0 cdn.hyperpromote.com
 0.0.0.0 v2.fm.n.duokanbox.com
 0.0.0.0	videojj.com
+0.0.0.0	m.6z1gf.cn
 0.0.0.0	k.85wa.cn
 0.0.0.0	ws010.authedmine.com
 0.0.0.0	xiaomiir.yaokantv.com
@@ -10732,6 +10841,7 @@
 0.0.0.0	u.yizuya.com
 0.0.0.0	aexz.rm.fhxiaoshuo.com
 0.0.0.0 exchange.ipdx.cn.miaozhen.com
+0.0.0.0	m.7wx8f.cn
 0.0.0.0 c.atdmt.com
 0.0.0.0	metok.sys.miui.com
 0.0.0.0	adm.easou.com
@@ -10750,6 +10860,7 @@
 0.0.0.0 server-hk.imrworldwide.com
 0.0.0.0 v2.hd.log.hunantv.com
 0.0.0.0	stats.infzm.com
+0.0.0.0	m.80o4j.cn
 0.0.0.0 vip.media8.cn
 0.0.0.0	uimg.27admin.com
 0.0.0.0	s.sh.qihoo.com
@@ -10759,6 +10870,7 @@
 0.0.0.0 biz5.kankan.com
 0.0.0.0	config.kuyun.com
 0.0.0.0	pay.holaq.com
+0.0.0.0	20190609.logic.cpm.cm.kankan.com
 0.0.0.0	adimg.uimserv.net
 0.0.0.0	unionimage.baidu.com
 0.0.0.0 active.baofeng.com
@@ -10844,11 +10956,13 @@
 0.0.0.0	e.vnanf.com
 0.0.0.0 shenyun.com
 0.0.0.0 staging.admin.e.mi.com
+0.0.0.0	20190618.logic.cpm.cm.kankan.com
 0.0.0.0	ark.cocounion.com
 0.0.0.0	js.guangsss1999.com
 0.0.0.0 s.hystq.com
 0.0.0.0 wap.mpush.qq.com
 0.0.0.0	bs.serving-sys.com
+0.0.0.0	ssl2.feihongjiaoyu.com
 0.0.0.0	p4psearch.china.alibaba.com
 0.0.0.0	sohutv.m.cn.miaozhen.com
 0.0.0.0	kuaigao.rrsdl.com
@@ -10903,6 +11017,7 @@
 0.0.0.0	sp1.baidu.com
 0.0.0.0 ums.adtechus.com
 0.0.0.0	www.4242uuu.com
+0.0.0.0	db.xiaoshuofuwuqi.com
 0.0.0.0	ws017.coin-hive.com
 0.0.0.0 bes-progfree.com
 0.0.0.0	j.mainbx.com
@@ -10965,6 +11080,7 @@
 0.0.0.0	am.g.ireader.com
 0.0.0.0	same03.jrj.com.cn
 0.0.0.0	bce.baidu.com
+0.0.0.0	m.s0o5g.cn
 0.0.0.0 tw.adon.vpon.com
 0.0.0.0 cm.adkmob.com
 0.0.0.0 telemetry.microsoft.com
@@ -10989,6 +11105,7 @@
 0.0.0.0	d.ltss8.com
 0.0.0.0	e.sbaoe.com
 0.0.0.0	et-cn.w.inmobi.com
+0.0.0.0	20190623.logic.cpm.cm.kankan.com
 0.0.0.0	m.bbvjs.com
 0.0.0.0 bd2.dopa.com
 0.0.0.0	un.winasdaq.com
@@ -11202,6 +11319,7 @@
 0.0.0.0	e.neijh.com
 0.0.0.0 mso.allyes.com
 0.0.0.0	ads.ce.cn
+0.0.0.0	2f3.555b2b.com
 0.0.0.0 gw5.push.mcp.weibo.cn
 0.0.0.0	ijeu.pdkzyy.cn
 0.0.0.0	statis.push.netease.com
@@ -11246,6 +11364,7 @@
 0.0.0.0 e.wikigifth.com
 0.0.0.0 2345apicode.dftoutiao.com
 0.0.0.0	rc.whytoss.com
+0.0.0.0	20190621.logic.cpm.cm.kankan.com
 0.0.0.0	sdk.open.lbs.igexin.com
 0.0.0.0 max.adsame.com
 0.0.0.0	sxdnserror2.wo.com.cn
@@ -11303,6 +11422,7 @@
 0.0.0.0	banlv.baidu.com
 0.0.0.0 rbs.haiyunx.com
 0.0.0.0	sigo99.com
+0.0.0.0	m.vpmjg.cn
 0.0.0.0	cdn.at.atwola.com
 0.0.0.0	mini2015.qq.com
 0.0.0.0	ws012.coinhive.com
@@ -11393,6 +11513,7 @@
 0.0.0.0	log.orchidscape.net
 0.0.0.0	push-android.myzaker.com
 0.0.0.0	count24.51yes.com
+0.0.0.0	j.microad.net
 0.0.0.0	stat.cbsi.com.cn
 0.0.0.0	l.ftx.fancyapi.com
 0.0.0.0	vidstat.taboola.com
@@ -11415,6 +11536,7 @@
 0.0.0.0	sdk.m.cp31.ott.cibntv.net
 0.0.0.0	apps2.outfit7.com
 0.0.0.0	wrvdmh.cn
+0.0.0.0 api.stack-sonar.com
 0.0.0.0	bdfrm.bidvertiser.com
 0.0.0.0	wysa.2wxb5.cn
 0.0.0.0	m.kyxnz.cn
@@ -11453,6 +11575,7 @@
 0.0.0.0 www.shenzhoufilm.com
 0.0.0.0	rplzmw.cn
 0.0.0.0	banner.cooguo.com
+0.0.0.0	dbnw.jyzmsy.com.cn
 0.0.0.0 api.wsq.umeng.com
 0.0.0.0 oascentral.sina.com.hk
 0.0.0.0	xiazai.ntfsformac.cn
@@ -11545,6 +11668,7 @@
 0.0.0.0	e.uchij.com
 0.0.0.0	static.acs86.com
 0.0.0.0	x.120ask.com
+0.0.0.0	www.isitone.com
 0.0.0.0	ereg.adobe.com
 0.0.0.0	w.yamaidei.cn
 0.0.0.0	img.supfast.net
@@ -11600,10 +11724,10 @@
 0.0.0.0 opehs.tanx.com
 0.0.0.0	dmtu.0m31a.cn
 0.0.0.0	zh-cn.shenyun.com
-0.0.0.0	20190531.logic.cpm.cm.kankan.com
 0.0.0.0	s.phpwind.com
 0.0.0.0	y0.cn
 0.0.0.0	app.fdwdqc.cn
+0.0.0.0	4gf.9tkl2d.cn
 0.0.0.0	tjlog.easou.com
 0.0.0.0	wx.houyi.baofeng.net
 0.0.0.0 c.gdt.qq.com
@@ -11615,10 +11739,10 @@
 0.0.0.0 count30.51yes.com
 0.0.0.0 js4163.yongkang6.com
 0.0.0.0 dl.youjia2016.com
+0.0.0.0	e.s0o5g.cn
 0.0.0.0	www.mycleanmymac.com
 0.0.0.0	www.qzgjprj.com
 0.0.0.0	ipm.corel.com
-0.0.0.0	20190516.logic.cpm.cm.kankan.com
 0.0.0.0	sdn.hzxma.com
 0.0.0.0	js883.hnfpgm.com
 0.0.0.0 stats.mokeedev.com
@@ -11691,6 +11815,7 @@
 0.0.0.0 mazu.3g.qq.com
 0.0.0.0 bc.geocities.yahoo.co.jp
 0.0.0.0	d.1391.com
+0.0.0.0	m.95z3a.cn
 0.0.0.0	m.jpenk.com
 0.0.0.0	m.baidu.com
 0.0.0.0	dajiyuan.com
@@ -11766,7 +11891,6 @@
 0.0.0.0 shop.yinyuetai.com
 0.0.0.0 sdkapp.mobile.sina.cn
 0.0.0.0	u193035.pr00001.com
-0.0.0.0	fc5tn.baidu.com
 0.0.0.0	spcdnpc.i-mobile.co.jp
 0.0.0.0	p.l.qq.com
 0.0.0.0	www.mindmanager.cc
@@ -11833,6 +11957,7 @@
 0.0.0.0	apisoft.df0535.com
 0.0.0.0	www.guangming.org
 0.0.0.0 a1.img.static.youmi.net
+0.0.0.0	20190605.logic.cpm.cm.kankan.com
 0.0.0.0	s8.cnzz.com
 0.0.0.0	m.640640.com
 0.0.0.0	rd.kuaigames.com
@@ -12104,7 +12229,9 @@
 0.0.0.0 s105.cnzz.com
 0.0.0.0	ffb.feihuo.com
 0.0.0.0	app.waps.cn
+0.0.0.0	e.wj57g.cn
 0.0.0.0	s.trafficjam.cn
+0.0.0.0	kvxg.chuanmen.mobi
 0.0.0.0	i.00oo00.com
 0.0.0.0 	hc.baidu.com
 0.0.0.0	m.ituiy.com
@@ -12163,7 +12290,6 @@
 0.0.0.0 ws016.coinhive.com
 0.0.0.0	talk.nz.igexin.com
 0.0.0.0	fancy-cm.cn.miaozhen.com
-0.0.0.0	20190501.logic.cpm.cm.kankan.com
 0.0.0.0 count41.51yes.com
 0.0.0.0 s21.cnzz.com
 0.0.0.0 s1.idaguang.com
@@ -12175,6 +12301,7 @@
 0.0.0.0	www.qchannel04.cn
 0.0.0.0 pixel.tapad.com
 0.0.0.0	sdk.cferw.com
+0.0.0.0	photo.ytmaksim.cn
 0.0.0.0 adimg.mobile.sina.cn
 0.0.0.0	www.nextlnk9.com
 0.0.0.0	safe.tsgpay.cn
@@ -12407,6 +12534,7 @@
 0.0.0.0 vsohu.admaster.com.cn
 0.0.0.0	ow.s1.shuhuangge.org
 0.0.0.0	server-lt.imrworldwide.com
+0.0.0.0 img.ak.impact-ad.jp
 0.0.0.0	www.xiaohui2.cn
 0.0.0.0 jb.mbaidu.top
 0.0.0.0	dsp-impr2.youdao.com
@@ -12502,7 +12630,6 @@
 0.0.0.0 secure.img-cdn.mediaplex.com
 0.0.0.0	cootek-dialer-download.oss-cn-hangzhou.aliyuncs.com
 0.0.0.0	stags.bluekai.com
-0.0.0.0	20190507.logic.cpm.cm.kankan.com
 0.0.0.0	ad.gamebox.360.cn
 0.0.0.0	zhtjdl.com
 0.0.0.0	rcynoe.cn
@@ -12538,6 +12665,7 @@
 0.0.0.0	p.99mssj.com
 0.0.0.0	ggw.watertu.com
 0.0.0.0	www.yl850555.com
+0.0.0.0	m.43k5d.cn
 0.0.0.0	m.ynnke.com
 0.0.0.0 i.stat.nearme.com.cn
 0.0.0.0	m.cuoas.com
@@ -12549,6 +12677,7 @@
 0.0.0.0	e.hkmqp.com
 0.0.0.0	cdn1.smartadserver.com
 0.0.0.0	e.u4j1ec.cn
+0.0.0.0	pvstat.baomihua.com
 0.0.0.0	adse.test.ximalaya.com
 0.0.0.0	m.ptuoa.com
 0.0.0.0 zhengwunet.org
@@ -12825,6 +12954,7 @@
 0.0.0.0	xia.imindmap.cc
 0.0.0.0	e.uzhaj.com
 0.0.0.0	cdn.atwola.com
+0.0.0.0	e.rp71l.cn
 0.0.0.0	media.cheshi-img.com
 0.0.0.0 pre.ra.icast.cn
 0.0.0.0 susapi.lenovomm.com
@@ -12896,7 +13026,6 @@
 0.0.0.0	app.acm.dzwww.com
 0.0.0.0	b.xinwenge.net
 0.0.0.0	z1hihu.xmcimg.com
-0.0.0.0	20190510.logic.cpm.cm.kankan.com
 0.0.0.0	d.tjgxzs.com
 0.0.0.0	img.zx590.com
 0.0.0.0 asearch.alicdn.com
@@ -12962,6 +13091,7 @@
 0.0.0.0	mp4.res.hunantv.com
 0.0.0.0	stats.cocounion.com
 0.0.0.0	m.jlkja.com
+0.0.0.0	20190603.logic.cpm.cm.kankan.com
 0.0.0.0	img.xrtzf.com
 0.0.0.0	e.gxjfh.com
 0.0.0.0	i.zt-dq.com
@@ -12999,6 +13129,7 @@
 0.0.0.0 techweb.adsame.com
 0.0.0.0 smjs.allyes.com
 0.0.0.0 yt.mmstat.com
+0.0.0.0	e.pt05c.cn
 0.0.0.0	e.ojues.com
 0.0.0.0	www.pj5189.com
 0.0.0.0	datacapture.serving-sys.com
@@ -13065,6 +13196,7 @@
 0.0.0.0	sdk.open.phone.igexin.com
 0.0.0.0	static-one.ffwap.com
 0.0.0.0	tsjdgzm.m.3dllc.cc
+0.0.0.0	2mg.jim86d.cn
 0.0.0.0	cf.37cs.com
 0.0.0.0	m.xhaiu.com
 0.0.0.0 appuu.cn
@@ -13281,6 +13413,7 @@
 0.0.0.0	m.50j33.cn
 0.0.0.0	m.hellomingpian.com
 0.0.0.0	www.cy8888.top
+0.0.0.0	dg.egjq.com.cn
 0.0.0.0 loading.baofeng5.baofeng.net
 0.0.0.0	a.stka8.com
 0.0.0.0	in.ndtzx.com
@@ -13321,6 +13454,7 @@
 0.0.0.0	m.feirs.com
 0.0.0.0 qianclick.baidu.com
 0.0.0.0 static.adxadserv.com
+0.0.0.0	m.w6o2c.cn
 0.0.0.0	xavingtsun.com
 0.0.0.0	j.mzdmzd.com
 0.0.0.0 t-e.flyme.cn
@@ -13541,7 +13675,6 @@
 0.0.0.0	cdn.earnify.com
 0.0.0.0	bx01.optimix.asia
 0.0.0.0	pl108258.puserving.com
-0.0.0.0	20190522.logic.cpm.cm.kankan.com
 0.0.0.0	4009997658.com
 0.0.0.0	ggcode.2345.com
 0.0.0.0 image.139y.com
@@ -13596,6 +13729,7 @@
 0.0.0.0	px.moatads.com
 0.0.0.0	www.acint.net
 0.0.0.0	vtechweb.adsame.com
+0.0.0.0	8bq898.73miqb.cn
 0.0.0.0	bzclk.baidu.com
 0.0.0.0	ucus.ucweb.com
 0.0.0.0	kkyy.liliyy.com
@@ -13699,6 +13833,7 @@
 0.0.0.0	pic.fengniao.com
 0.0.0.0	fghmc.ga25.com
 0.0.0.0	c.statstat888.com
+0.0.0.0	m.34uvn.cn
 0.0.0.0	unjs.jfcdns.com
 0.0.0.0	ssp.kxly360.com
 0.0.0.0	xiazai.yuanchengxiezuo.com
@@ -13725,7 +13860,6 @@
 0.0.0.0	v68.ink
 0.0.0.0	ana.masky.biddingx.com
 0.0.0.0	html.atm.youku.com
-0.0.0.0	20190525.logic.cpm.cm.kankan.com
 0.0.0.0	js-1.pchome.net
 0.0.0.0 adnet.sohu.com
 0.0.0.0	d.rexuebi.com
@@ -13841,6 +13975,7 @@
 0.0.0.0	g.sdk.look.360.cn
 0.0.0.0 test.surepush.cn
 0.0.0.0	drvmy.ats68.cn
+0.0.0.0	m.ki18c.cn
 0.0.0.0 123.sogou.com
 0.0.0.0	sva817.minjiadian.cn
 0.0.0.0	vvlog.moviebox.baofeng.com
@@ -13873,6 +14008,7 @@
 0.0.0.0	m.hfsteel.net
 0.0.0.0	m.djhhy.com
 0.0.0.0 n.3g.163.com
+0.0.0.0	20190629.logic.cpm.cm.kankan.com
 0.0.0.0	ad.funp.com
 0.0.0.0 c.betrad.com
 0.0.0.0	vhunantv.admaster.com.cn
@@ -13975,6 +14111,7 @@
 0.0.0.0 id.jiathis.com
 0.0.0.0 media.admob.com
 0.0.0.0	aq1r.qilekacha.club
+0.0.0.0	www.stack-sonar.com
 0.0.0.0 rcmd.pop.ijinshan.com
 0.0.0.0	e.mingysh.com
 0.0.0.0 proton.flurry.com
@@ -14003,6 +14140,7 @@
 0.0.0.0	d29qt51jeyi6xb.cloudfront.net
 0.0.0.0	ssp.kss.ksyun.com
 0.0.0.0	t.adbxb.cn
+0.0.0.0	20190612.logic.cpm.cm.kankan.com
 0.0.0.0	4.up.qingdaonews.com
 0.0.0.0	c1.adform.net
 0.0.0.0	m.tjiaa.com
@@ -14062,6 +14200,7 @@
 0.0.0.0 install.kugou.com
 0.0.0.0	vip.5leji.com
 0.0.0.0	qjgcdn123.86666608.com
+0.0.0.0	activity.tuiapple.com
 0.0.0.0	delivery-pc.wasu.cn
 0.0.0.0 count39.51yes.com
 0.0.0.0 q1.cnzz.com
@@ -14106,6 +14245,7 @@
 0.0.0.0	su.8881919.cc
 0.0.0.0	www.secretchina.com
 0.0.0.0	p3p.sogou.com
+0.0.0.0	20190630.logic.cpm.cm.kankan.com
 0.0.0.0	e.vbaof.com
 0.0.0.0 www.xiniuz.com
 0.0.0.0	s141.cnzz.com
@@ -14125,7 +14265,6 @@
 0.0.0.0	bdaz.adsfactor.net
 0.0.0.0	tongji.tt.shouji56.com
 0.0.0.0 e.domob.cn
-0.0.0.0	fc3tn.baidu.com
 0.0.0.0	fast-cdn.dianjoy.com
 0.0.0.0	m.nthtcs.com
 0.0.0.0	img.zhuanfakong.com
@@ -14157,6 +14296,7 @@
 0.0.0.0 d.kugou.com
 0.0.0.0	applequan.com
 0.0.0.0	m.eddong.com
+0.0.0.0	m.x78tg.cn
 0.0.0.0 ade.googlesyndication.com
 0.0.0.0	m.lbaoj.com
 0.0.0.0	h5.jiumaster.com
@@ -14330,6 +14470,7 @@
 0.0.0.0	ic.ie.027ie.com
 0.0.0.0	daima.mubite.cn
 0.0.0.0	20170204.logic.cpm.cm.kankan.com
+0.0.0.0	2mg898.jim86d.cn
 0.0.0.0 mc.weather.com.cn
 0.0.0.0	sem.baidu.com
 0.0.0.0	m.axzlsc.com
@@ -14618,11 +14759,11 @@
 0.0.0.0 js.hs-analytics.net
 0.0.0.0	m.aangc.com
 0.0.0.0 adserver.juicyads.com
+0.0.0.0	m.z83rj.cn
 0.0.0.0	pp.268mob.com
 0.0.0.0	ad.thinkmedia.cn
 0.0.0.0 server-ru.imrworldwide.com
 0.0.0.0	m.oesnw.com
-0.0.0.0	20190513.logic.cpm.cm.kankan.com
 0.0.0.0	526dimg.uunice.com
 0.0.0.0	simaba.taobao.com
 0.0.0.0 v2.da.mgtv.com
@@ -14746,6 +14887,7 @@
 0.0.0.0	hljdnserror5.wo.com.cn
 0.0.0.0	suvset.sohu.com
 0.0.0.0 cdn.puata.info
+0.0.0.0	aid.send.microad.jp
 0.0.0.0 www.eddong.com
 0.0.0.0	brand.sogou.com
 0.0.0.0 stat.adirects.com
