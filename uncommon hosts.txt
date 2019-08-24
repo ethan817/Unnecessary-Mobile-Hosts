@@ -480,6 +480,30 @@
 0.0.0.0 tertwronletarfi.pro
 0.0.0.0 www.anonymz.com
 0.0.0.0 35.224.227.218
+0.0.0.0 accounts.doubleclick.net
+0.0.0.0 e.crashlytics.com
+0.0.0.0 forgethenar.info
+0.0.0.0 graph.instagram.com
+0.0.0.0 mblservices.org
+0.0.0.0 meetbilkferz.info
+0.0.0.0 orxjwhnqrcszi.com
+0.0.0.0 pbk.partnerbookingkit.com
+0.0.0.0 popular.kiwibrowser.com
+0.0.0.0 quantcast.mgr.consensu.org
+0.0.0.0 record.commissionkings.ag
+0.0.0.0 reports.crashlytics.com
+0.0.0.0 settings.crashlytics.com
+0.0.0.0 shs-session-tracker.appspot.com
+0.0.0.0 ssl.google-analytics.com
+0.0.0.0 uozfvskaqrgm.com
+0.0.0.0 use.fontawesome.com
+0.0.0.0 widget-cdn.partnerbookingkit.com
+0.0.0.0 www.orxjwhnqrcszi.com
+0.0.0.0 www.uozfvskaqrgm.com
+0.0.0.0 kora-sky.com
+0.0.0.0 xhamsterlive.com
+0.0.0.0 itrustzone.site
+0.0.0.0 torrentsafeguard.com
 #
 #CREDITS: https://github.com/gasull/adblock-nsa
 #
