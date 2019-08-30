@@ -5,18 +5,14 @@
 ! Expires: 1 days
 ! Homepage: https://raw.githubusercontent.com/ethan817/Unnecessary-Mobile-Hosts/master/cnhosts.txt
 ! Last modified: Sunday, August 11th, 2019
-
+!
 ! Filter Data imported from <https://raw.githubusercontent.com/vokins/yhosts/master/hosts.txt>
-@direct/1os
-0.0.0.0 XiaoQiang
-@direct/official
 0.0.0.0 geo2.adobe.com
 0.0.0.0 get3.adobe.com
 0.0.0.0 flash.2144.com
 0.0.0.0 www.2144.cn
 0.0.0.0 iadctest.qwapi.com
 0.0.0.0 ieonline.microsoft.com
-@direct/3rd
 13.107.21.200 cn.bing.com
 0.0.0.0 acdid.acdsystems.com
 0.0.0.0 activation.acronis.com
