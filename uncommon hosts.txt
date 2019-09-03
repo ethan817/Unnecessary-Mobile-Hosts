@@ -748,7 +748,6 @@
 0.0.0.0 chimpstatic.com
 0.0.0.0 delivery.g.switchadhub.com
 0.0.0.0 delivery.swid.switchadhub.com
-0.0.0.0 download.cdn.yandex.net
 0.0.0.0 epdg.epc.mnc410.mcc310.pub.3gppnetwork.org
 0.0.0.0 eugenox.appspot.com
 0.0.0.0 favicon.yandex.net
@@ -771,29 +770,16 @@
 0.0.0.0 www.verispy.com
 0.0.0.0 hss.hsselite.com
 0.0.0.0 rlbvwdviqx.com
-#
 0.0.0.0 snapads.com
 0.0.0.0 crashlytics.com
 0.0.0.0 e.crashlytics.com
 0.0.0.0 reports.crashlytics.com
-0.0.0.0 usc.adserver.snapads.com
-0.0.0.0 adserver.snapads.com
-0.0.0.0 use.adserver.snapads.com
-0.0.0.0 euw.adserver.snapads.com
-0.0.0.0 ase.adserver.snapads.com
-0.0.0.0 adserver.shadow.snapads.com
-0.0.0.0 app-analytics.snapchat.com
-0.0.0.0 sc-analytics.appspot.com
-0.0.0.0 staging2-dot-sc-analytics.appspot.com
-0.0.0.0 staging.app-analytics.snapchat.com
-0.0.0.0 ad-center.snapchat.com
-0.0.0.0 adserver.staging.snapads.com
-0.0.0.0 snapchat-snapads-portal.appspot.com
-0.0.0.0 weather.sc-jpl.com
-0.0.0.0 loc.sc-jpl.com
-0.0.0.0 loc-staging.sc-jpl.com
-0.0.0.0 loca-staging.sc-jpl.com
-0.0.0.0 loca.sc-jpl.com
-0.0.0.0 snapchat-payments-gateway.snapchat.com
-0.0.0.0 snapchat.tf
-#
+0.0.0.0 is.ltroute.com
+0.0.0.0 ltroute.com
+0.0.0.0 rootsy.org
+0.0.0.0 popup.taboola.com
+0.0.0.0 oscp.apple.com
+0.0.0.0 mesu.apple.com
+0.0.0.0 gdmf.apple.com
+0.0.0.0 ppq.apple.com
+0.0.0.0 app-measurement.com
