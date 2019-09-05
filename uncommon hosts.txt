@@ -783,3 +783,5 @@
 0.0.0.0 gdmf.apple.com
 0.0.0.0 ppq.apple.com
 0.0.0.0 app-measurement.com
+0.0.0.0 pixel.facebook.com
+0.0.0.0 adtools.facebook.com
