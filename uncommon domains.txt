@@ -1,6 +1,6 @@
 ! Version: 20190830
-! Title: Uncommon Domains
-! Homepage: https://github.com/ethan817/Unnecessary-Mobile-Hosts/raw/master/uncommon%20domains.txt
+! Title: Uncommon Mobile Hosts
+! Homepage: https://github.com/ethan817/Unnecessary-Mobile-Hosts/raw/master/uncommon%20hosts.txt
 !
 !
 allmygreatestlife.com
@@ -783,3 +783,5 @@ mesu.apple.com
 gdmf.apple.com
 ppq.apple.com
 app-measurement.com
+pixel.facebook.com
+adtools.facebook.com
