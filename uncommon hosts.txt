@@ -845,3 +845,4 @@
 0.0.0.0 tlx.3lift.com
 0.0.0.0 uniproxy.alice.yandex.net
 0.0.0.0 voiceservices.yandex.net
+0.0.0.0 35.224.227.218
