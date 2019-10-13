@@ -848,3 +848,5 @@
 0.0.0.0 35.224.227.218
 0.0.0.0 epdg.epc.mnc410.mcc310.pub.3gppnetwork.org
 0.0.0.0 grooksom.com
+0.0.0.0 zeegreen.net
+0.0.0.0 www.soft2ev.com
