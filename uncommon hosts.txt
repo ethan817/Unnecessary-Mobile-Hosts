@@ -850,3 +850,19 @@
 0.0.0.0 grooksom.com
 0.0.0.0 zeegreen.net
 0.0.0.0 www.soft2ev.com
+0.0.0.0 pteegloa.com
+0.0.0.0 connectivitycheck.gstatic.com
+0.0.0.0 cache.umusic.com
+0.0.0.0 android.bugly.qq.com
+0.0.0.0 api.samsungosp.com
+0.0.0.0 app-measurement.com
+0.0.0.0 app.1worldonline.com
+0.0.0.0 content.any.run
+0.0.0.0 d2fw4nb4g546bx.cloudfront.net
+0.0.0.0 d34kmtambbime7.cloudfront.net
+0.0.0.0 dynamic-cdn.spot.im
+0.0.0.0 fastlane.rubiconproject.com
+0.0.0.0 
+0.0.0.0 
+0.0.0.0 
+0.0.0.0 
