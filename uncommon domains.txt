@@ -1,3 +1,8 @@
+! Version: 20190830
+! Title: Uncommon Mobile Hosts
+! Homepage: https://github.com/ethan817/Unnecessary-Mobile-Hosts/raw/master/uncommon%20hosts.txt
+!
+!
 allmygreatestlife.com
 gmidkz5tgm.com
 4l7wg5kf3z.com
@@ -861,7 +866,6 @@ unitedstates.smartscreen-prod.microsoft.com
 www.foxrefs.com
 www.foxrevenue.com
 onesignal.com
-footprints-pa.googleapis.com
 smetrics.aem.playstation.com
 gateway-carry.icloud.com
 secure.brightcove.com
@@ -885,7 +889,6 @@ ocsp.apple.com
 publisher-assets.spot.im
 www.gravatar.com
 www.mgo.com
-gsacollections-pa.googleapis.com
 abroad.apilocate.amap.com
 sc.omtrdc.net
 android.bugly.qq.com
@@ -912,7 +915,6 @@ extanalytics.com
 f4h4he.vkcache.com
 fls.doubleclick.net
 id.google.com
-hqq.tvid.google.com
 img.mfcimg.com
 img.stripst.com
 incoming.telemetry.mozilla.org
