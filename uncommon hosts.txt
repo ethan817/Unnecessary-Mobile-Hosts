@@ -961,3 +961,4 @@
 0.0.0.0 www.xtapes.tvxchat112.myfreecams.com
 0.0.0.0 xhamsterlive.com
 0.0.0.0 ynuf.aliapp.org
+0.0.0.0 images.dmca.com
