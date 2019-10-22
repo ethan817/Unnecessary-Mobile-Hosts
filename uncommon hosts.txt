@@ -866,7 +866,6 @@
 0.0.0.0 www.foxrefs.com
 0.0.0.0 www.foxrevenue.com
 0.0.0.0 onesignal.com
-0.0.0.0 footprints-pa.googleapis.com
 0.0.0.0 smetrics.aem.playstation.com
 0.0.0.0 gateway-carry.icloud.com
 0.0.0.0 secure.brightcove.com
@@ -890,7 +889,6 @@
 0.0.0.0 publisher-assets.spot.im
 0.0.0.0 www.gravatar.com
 0.0.0.0 www.mgo.com
-0.0.0.0 gsacollections-pa.googleapis.com
 0.0.0.0 abroad.apilocate.amap.com
 0.0.0.0 sc.omtrdc.net
 0.0.0.0 android.bugly.qq.com
@@ -917,7 +915,6 @@
 0.0.0.0 f4h4he.vkcache.com
 0.0.0.0 fls.doubleclick.net
 0.0.0.0 id.google.com
-0.0.0.0 hqq.tvid.google.com
 0.0.0.0 img.mfcimg.com
 0.0.0.0 img.stripst.com
 0.0.0.0 incoming.telemetry.mozilla.org
