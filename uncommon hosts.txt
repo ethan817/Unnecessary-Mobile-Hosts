@@ -967,7 +967,6 @@
 0.0.0.0 ted.dailymail.co.uk
 0.0.0.0 script.dailymail.co.uk
 0.0.0.0 t.dailymail.co.uk
-0.0.0.0 imasdk.googleapis.com
 0.0.0.0 cdnapisec.kaltura.com
 0.0.0.0 www.i.cdn.cnn.com
 0.0.0.0 fls-na.amazon.com
@@ -994,7 +993,6 @@
 0.0.0.0 rebrand.ly
 0.0.0.0 www.mgo.com
 0.0.0.0 gld.push.samsungosp.com
-0.0.0.0 id.l.google.com
 0.0.0.0 meter-svc.nytimes.com
 0.0.0.0 manifest.localytics.com
 0.0.0.0 readiong.net
@@ -1003,7 +1001,6 @@
 0.0.0.0 fastlane.rubiconproject.com
 0.0.0.0 s2.reutersmedia.net
 0.0.0.0 cbsi.demdex.net
-0.0.0.0 imasdk.googleapis.com
 0.0.0.0 utoumine.net
 0.0.0.0 wireapi.reuters.com
 0.0.0.0 prebid-server.rubiconproject.com
@@ -1016,11 +1013,9 @@
 0.0.0.0 pixiedust.buzzfeed.com
 0.0.0.0 polyfill.io
 0.0.0.0 assets.pinterest.com
-0.0.0.0 id.google.com
 0.0.0.0 pool.ntp.org
 0.0.0.0 video-api.vsnack.io
 0.0.0.0 vs-api.voodoo-tech.io
-0.0.0.0 ocsp.godaddy.com
 0.0.0.0 css.slickdealscdn.com
 0.0.0.0 cognito-identity.us-east-1.amazonaws.com
 0.0.0.0 device-metrics-us-2.amazon.com
