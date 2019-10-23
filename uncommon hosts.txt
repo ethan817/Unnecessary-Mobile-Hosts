@@ -219,7 +219,6 @@
 0.0.0.0 win2.studynerdz.com
 0.0.0.0 win1.studynerdz.com
 0.0.0.0 7wuvias.website
-0.0.0.0 id.google.com
 0.0.0.0 bts-la.ucweb.com
 0.0.0.0 usa.ime.cootek.com
 0.0.0.0 api.allnews.uodoo.com
@@ -726,7 +725,6 @@
 0.0.0.0 propensity.perso.washpost.io
 0.0.0.0 mol.report-uri.io
 0.0.0.0 www.newegg.com
-0.0.0.0 id.google.com
 0.0.0.0 spotops.spot.im
 0.0.0.0 www.spot.im
 0.0.0.0 frontend.1worldonline.com
@@ -801,7 +799,6 @@
 0.0.0.0 user-api.ucweb.com
 0.0.0.0 user-center-pre.ucweb.com
 0.0.0.0 vas.samsungapps.com
-0.0.0.0 video-stats.l.google.com
 0.0.0.0 www.dankvapes.org
 0.0.0.0 www.fullredneck.com
 0.0.0.0 www.movcpm.com
