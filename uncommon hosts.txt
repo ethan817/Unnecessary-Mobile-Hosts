@@ -1,8 +1,8 @@
-! Version: 20190830
-! Title: Uncommon Mobile Hosts
-! Homepage: https://github.com/ethan817/Unnecessary-Mobile-Hosts/raw/master/uncommon%20hosts.txt
-!
-!
+# Version: 20191029
+# Title: Uncommon Mobile Hosts
+# Homepage: https://github.com/ethan817/Unnecessary-Mobile-Hosts/raw/master/uncommon%20hosts.txt
+#
+#
 0.0.0.0 allmygreatestlife.com
 0.0.0.0 gmidkz5tgm.com
 0.0.0.0 4l7wg5kf3z.com
@@ -661,7 +661,6 @@
 0.0.0.0 eazyl.ink
 0.0.0.0 userurl.net
 0.0.0.0 apkland.net
-0.0.0.0 metric.gstatic.com
 0.0.0.0 aax-us-east.amazon-adsystem.com
 0.0.0.0 acp-magento.appspot.com
 0.0.0.0 api2.appsflyer.com
@@ -676,7 +675,6 @@
 0.0.0.0 dpx.airpr.com
 0.0.0.0 dt.adsafeprotected.com
 0.0.0.0 eb2.3lift.com
-0.0.0.0 ec3b7cf1-dnsotls-ds.metrics.gstatic.com
 0.0.0.0 epdg.epc.mnc410.mcc310.pub.3gppnetwork.org
 0.0.0.0 eugenox.appspot.com
 0.0.0.0 geo.inge.org.uk
@@ -701,7 +699,6 @@
 0.0.0.0 zeegreen.net
 0.0.0.0 www.soft2ev.com
 0.0.0.0 pteegloa.com
-0.0.0.0 connectivitycheck.gstatic.com
 0.0.0.0 cache.umusic.com
 0.0.0.0 android.bugly.qq.com
 0.0.0.0 api.samsungosp.com
@@ -739,7 +736,6 @@
 0.0.0.0 www.mgo.com
 0.0.0.0 abroad.apilocate.amap.com
 0.0.0.0 sc.omtrdc.net
-0.0.0.0 android.bugly.qq.com
 0.0.0.0 api.amplitude.com
 0.0.0.0 api.leanplum.com
 0.0.0.0 api.myfreecams.com
@@ -808,3 +804,26 @@
 0.0.0.0 xhamsterlive.com
 0.0.0.0 ynuf.aliapp.org
 0.0.0.0 cdn-taboola-com.cdn.ampproject.org
+0.0.0.0 ogrfi3uyt7.com
+0.0.0.0 www.ogrfi3uyt7.com
+0.0.0.0 8ixrxa2tnr.com
+0.0.0.0 www.fbufrl15br.com
+0.0.0.0 fbufrl15br.com
+0.0.0.0 bicacxo5go.com
+0.0.0.0 pmlw0efk4x.com
+0.0.0.0 b1g1w7wic0.com
+0.0.0.0 xpx7heciz9.com
+0.0.0.0 llahnch259.com
+0.0.0.0 c02o3mpych.com
+0.0.0.0 qd3u5eeuos.com
+0.0.0.0 4exlkjnngs.com
+0.0.0.0 dvoyy3qexr.com
+0.0.0.0 www.bicacxo5go.com
+0.0.0.0 www.pmlw0efk4x.com
+0.0.0.0 www.b1g1w7wic0.com
+0.0.0.0 www.xpx7heciz9.com
+0.0.0.0 www.llahnch259.com
+0.0.0.0 www.c02o3mpych.com
+0.0.0.0 www.qd3u5eeuos.com
+0.0.0.0 www.4exlkjnngs.com
+0.0.0.0 www.dvoyy3qexr.com
