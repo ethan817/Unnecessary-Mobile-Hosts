@@ -807,6 +807,9 @@
 0.0.0.0 www.xtapes.tvxchat112.myfreecams.com
 0.0.0.0 xhamsterlive.com
 0.0.0.0 ynuf.aliapp.org
+0.0.0.0 cdn-taboola-com.cdn.ampproject.org
+#
+#YANDEX HOSTS: 
 #
 0.0.0.0 adfox.ru
 0.0.0.0 advertising.yandex.ru
@@ -931,6 +934,8 @@
 0.0.0.0 smtp.x-tend.kiev.ua
 0.0.0.0 smtp.yandex.ru
 #
+#HUAWEI HOSTS: 
+#
 0.0.0.0	dbankcdn.com
 0.0.0.0 hicloud.com
 0.0.0.0 huawei.abudhabi
@@ -984,6 +989,8 @@
 0.0.0.0 huawei.co.kr
 0.0.0.0 huawei.co.nz
 #
+#VIDEO GAME TELEMETRY
+#
 0.0.0.0 metrics.ubi.com
 0.0.0.0 smetrics.ubi.com
 0.0.0.0 video.steamstatic.com
@@ -1013,6 +1020,8 @@
 0.0.0.0 visuals.guim.co.uk
 0.0.0.0 pixel.buzzfeed.com
 0.0.0.0 stcounter.com
+#
+#FAKE NEWS: 
 #
 0.0.0.0 100percentfedup.com
 0.0.0.0 20minutenews.com
