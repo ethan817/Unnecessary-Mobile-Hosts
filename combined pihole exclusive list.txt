@@ -1,16 +1,3 @@
-#https://theantisocialengineer.com/AntiSocial_Blacklist_Community_V1.txt
-#https://raw.githubusercontent.com/mitchellkrogza/Stop.Google.Analytics.Ghost.Spam.HOWTO/master/output/domains/ACTIVE/list
-#https://raw.githubusercontent.com/XionKzn/PiHole-Lists/master/Quad9.txt
-#https://ransomwaretracker.abuse.ch/downloads/RW_DOMBL.txt
-#https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/CountryCodesLists/UnitedStatesofAmerica.txt
-#https://raw.githubusercontent.com/parseword/nolovia/master/skel/hosts-dynamic-dns.txt
-#https://raw.githubusercontent.com/parseword/nolovia/master/skel/hosts-windows-telemetry.txt
-#https://raw.githubusercontent.com/parseword/nolovia/master/skel/hosts-government-malware.txt
-#https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV.txt
-#https://raw.githubusercontent.com/Cybo1927/Hosts/master/Anti/Anti%20Verizon
-#
-#
-#
 02.co.uk
 02.com
 02.life
@@ -34163,9 +34150,9 @@ zwitter.info
 zwitter.net
 zws.amazon.kim
 zws.amazon.org.uk
-#
-#
-#
+
+
+
 000free.us
 007angels.com
 00author.com
@@ -39575,9 +39562,9 @@ zx6.ru
 zytpirwai.net
 zzbroya.com.ua
 zzlgxh.com
-#
-#
-#
+
+
+
 amazon.co.uk.security-check.ga
 autosegurancabrasil.com
 dadossolicitado-antendimento.sad879.mobi
@@ -58164,7 +58151,7 @@ practicalradical.ml
 printwellservices.com
 processitech.com.br
 proofs6conf-net.webs.com
-#
+
 punksenice.a2hosted.com
 q96healthybrain.com
 radicalgraphicsandsigns.com
@@ -66374,9 +66361,9 @@ wildflowerhairsalon.com
 xcfdrfslage.idv.am
 grati.cf
 hi-j.com
-#
-#
-#
+
+
+
 25z5g623wpqpdwis.onion.to
 27c73bq66y4xqoh7.dorfact.at
 27lelchgcvs2wpm7.3lhjyx.top
@@ -68279,9 +68266,9 @@ zjfq4lnfbs7pncr5.onion.to
 zjfq4lnfbs7pncr5.tor2web.org
 ztuw5bvuuapzdfya.klimbim.pl
 zutzt67dcxr6mxcn.onion.to
-#
-#
-#
+
+
+
 0-g.us
 00.devoid.us
 0005.us
@@ -92299,9 +92286,9 @@ zzmercy.us
 zzoning.us
 zzreact.us
 zzsword.us
-#
-#
-#
+
+
+
 3322.org
 anondns.net
 boxip.net
@@ -92318,9 +92305,9 @@ rr.nu
 usa.cc
 zapto.org
 ze.a
-#
-#
-#
+
+
+
 a-0001.a-msedge.net
 a-0002.a-msedge.net
 a-0003.a-msedge.net
@@ -92417,9 +92404,9 @@ vortex.data.microsoft.com.akadns.net
 watson.live.com
 watson.microsoft.com
 www.msftncsi.com
-#
-#
-#
+
+
+
 aalaan.tv
 accounts.mx
 adjust-local-settings.com
@@ -92475,9 +92462,9 @@ insta.reduct.ru
 waterfilter.in.ua
 elaxo.org
 ikmtrust.com
-#
-#
-#
+
+
+
 0077777700140002.myhomescreen.tv
 cert-test.sandbox.google.com
 collect-us-fy2014.myhomescreen.tv
@@ -92566,7 +92553,7 @@ gld.samsungosp.com
 gpm.samsungqbe.com
 i-stream.pl
 infolink.pavv.co.k
-#infolink.pavv.co.kr # Needed for appstore and login on Samsung UE40F5500
+infolink.pavv.co.kr  Needed for appstore and login on Samsung UE40F5500
 lcprd1.samsungcloudsolution.net
 log-1.samsungacr.com
 log-2.samsungacr.com
@@ -92654,7 +92641,7 @@ cdns-content.dzcdn.net
 cert-test.sandbox.google.com
 database01p.anixe.net
 de.ioam.de
-#drscdn.500px.org # blocks 500px on desktop
+drscdn.500px.org  blocks 500px on desktop
 geo.opera.com
 googleads.g.doubleclick.net
 itv.ard.de
@@ -92673,9 +92660,9 @@ api-tv.spotify.com
 api.distribution.hulu.com
 api.us.hismarttv.com
 api.euro.hismarttv.com
-#
-#
-#
+
+
+
 www.verizondigitalmedia.com
 verizondigitalmedia.com
 uplynk.com
