@@ -868,3 +868,4 @@
 0.0.0.0 clck.yandex.us
 0.0.0.0 clickhouse.yandex
 0.0.0.0 filesuploading.info
+0.0.0.0 ofexmskz.com
