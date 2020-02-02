@@ -877,6 +877,4 @@
 0.0.0.0 anizedglittledisco.info
 0.0.0.0 lvidentrevious.info
 0.0.0.0 esticotherein.info
-0.0.0.0 mobilenetworkscoring-pa.googleapis.com
-0.0.0.0 footprints-pa.googleapis.com
 0.0.0.0 35.238.205.163
