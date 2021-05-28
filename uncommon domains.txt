@@ -1,4 +1,4 @@
-# Version: 20210418
+# Version: 20210527
 # Title: Uncommon Mobile Hosts
 # Homepage: https://github.com/ethan817/Unnecessary-Mobile-Hosts/raw/master/uncommon%20hosts.txt
 #
@@ -799,7 +799,6 @@ www.dankvapes.org
 www.fullredneck.com
 www.movcpm.com
 www.myfreecams.com
-www.recaptcha.net
 www.xtapes.tvxchat112.myfreecams.com
 xhamsterlive.com
 ynuf.aliapp.org
@@ -1236,3 +1235,14 @@ g01.msn.com
 fls.doubleclick.net
 ssl.sc.omtrdc.net
 metric.gstatic.com
+ads-servebom-com.cdn.ampproject.org
+amp-spot-im.cdn.ampproject.org
+publisher--assets-spot-im.cdn.ampproject.org
+ assets-rebelmouse-io.cdn.ampproject.org
+0.0.0.0. geo.yahoo.com
+tagbom.com
+rusenov.com
+noisysortcasualty.com
+cstat.apple.com
+appcenter.ms
+userway.org
