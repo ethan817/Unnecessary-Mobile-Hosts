@@ -113,3 +113,5 @@
 0.0.0.0 www.webstore.ucweb.com
 0.0.0.0 ynuf.aliapp.org
 0.0.0.0 yukbacaberita.com
+0.0.0.0 d.ucbrowser.io
+0.0.0.0 ucbrowser.io
