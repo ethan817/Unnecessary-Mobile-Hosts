@@ -15,7 +15,6 @@
 ||74k.io^
 ||8001a9d6-df80-4fd7-a784-d2673c4b1730-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||8d9052b9-b74e-4ec4-85b1-1ae8781f3c08-netseer-ipaddr-assoc.xy.fbcdn.net^
-||_tcp.fios-router.home^
 ||a.run.app^
 ||a.teads.com^
 ||a529e00a-5104-4e1b-92b9-af287f47862f-netseer-ipaddr-assoc.xy.fbcdn.net^
