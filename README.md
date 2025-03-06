@@ -9,31 +9,6 @@ To use this blocklist with your adblocker, add the following URL to your adblock
 ```
 https://raw.githubusercontent.com/ethan817/Unnecessary-Mobile-Hosts/refs/heads/master/uncommon%20hosts%20(adblockers).txt
 ```
-
-### How to Subscribe
-
-#### AdGuard
-
-1. Open the AdGuard app.
-2. Go to **Settings > Filters**.
-3. Tap **Add Filter**.
-4. Paste the subscription URL:
-   ```
-   https://raw.githubusercontent.com/ethan817/Unnecessary-Mobile-Hosts/refs/heads/master/uncommon%20hosts%20(adblockers).txt
-   ```
-5. Save and enable the filter.
-
-#### uBlock Origin
-
-1. Open the uBlock Origin dashboard.
-2. Go to the **Filter Lists** tab.
-3. Scroll to **Custom** and click **Import**.
-4. Paste the subscription URL:
-   ```
-   https://raw.githubusercontent.com/ethan817/Unnecessary-Mobile-Hosts/refs/heads/master/uncommon%20hosts%20(adblockers).txt
-   ```
-5. Click **Apply Changes**.
-
 ## About the List
 
 This blocklist includes domains commonly associated with:
@@ -46,13 +21,22 @@ This blocklist includes domains commonly associated with:
 ### Known Limitations
 
 This blocklist also blocks the following services, which may cause issues if you rely on them:
-- Baidu
-- Yandex
-- Google DNS
-- Ghostery
-- Pocket (by Mozilla)
-- Newsbreak
-- Pushbullet
+- Baidu (Chinese search engine)
+- Yandex (Russian search engine)
+- Google DNS (used to circumvent Adblocking DNS)
+- Pocket (by Mozilla)(sponsored stories on Firefox)
+- Newsbreak (spammy Chinese news app)
+- Pushbullet (blocks online widget)
+- DeepSeek AI (spyware)
+- Brave (Rewards, Search)
+- Google Play Services (may cause issues, like APIs breaking))
+- Samsung Apps (related services) (I find most of the services useless or spammy)
+- Taobao (Chinese online shopping platform)
+- Ghostery extension
+- Avast
+- Hola VPN
+- Flipp App (app for digital circular)
+- Playstation (some functions, or may be unstable)
 
 Use this blocklist at your own discretion, as it may interfere with some mobile apps or services.
 
