@@ -629,8 +629,6 @@ telemetry.mozilla.org
 telemetry.pod5.prod.avatar.ext.hp.com
 telemetry.simcity.com
 tenjin.io
-test-ipv6.nextdns.io
-test.nextdns.io
 tgwidget.com
 thauhoux.com
 themazshop.com
