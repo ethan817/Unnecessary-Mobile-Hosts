@@ -1,6 +1,6 @@
 # Homepage: https://github.com/ethan817/Unnecessary-Mobile-Hosts/raw/master/uncommon%20hosts.txt
 # Title: Uncommon Mobile Hosts
-# Version: 20240122
+# Version: 20250401
 c11b903-e019-42c1-b741-5a6bf17c63f7-netseer-ipaddr-assoc.xy.fbcdn.net
 d3c353f-117a-486b-b22e-69d22b1f1662-netseer-ipaddr-assoc.xz.fbcdn.net
 118.188.232.35.bc.googleusercontent.com
