@@ -7,7 +7,7 @@ This is my personal list for trackers, ads, malware, and other unwanted or invas
 To use this blocklist with your adblocker, add the following URL to your adblocker's subscription settings:
 
 ```
-https://raw.githubusercontent.com/ethan817/Unnecessary-Mobile-Hosts/refs/heads/master/uncommon%20hosts%20(adblockers).txt](https://github.com/ethan817/Unnecessary-Mobile-Hosts/raw/refs/heads/master/uncommon%20hosts%20lite.txt
+https://raw.githubusercontent.com/ethan817/Unnecessary-Mobile-Hosts/refs/heads/master/uncommon%20hosts%20lite.txt
 ```
 ## About the List
 
