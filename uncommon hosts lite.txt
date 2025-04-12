@@ -566,7 +566,6 @@
 0.0.0.0 flmfcox.com
 0.0.0.0 blidbqd.com
 0.0.0.0 houseofblogger.com
-0.0.0.0 graph.instagram.com
 0.0.0.0 static-pub.highwebmedia.com
 0.0.0.0 realtime.pa.highwebmedia.com
 0.0.0.0 apptimize.com
@@ -704,7 +703,6 @@
 0.0.0.0 gzegwior.com
 0.0.0.0 allaboutworldnews.com
 0.0.0.0 akumachi.com
-0.0.0.0 74k.io
 0.0.0.0 config-api.internet.apps.samsung.com
 0.0.0.0 gameswhitelisted.googleapis.com
 0.0.0.0 wo.vzwwo.com
@@ -726,8 +724,6 @@
 0.0.0.0 intake-analytics.wikimedia.org
 0.0.0.0 ogads-pa.clients6.google.com
 0.0.0.0 sdk.mrf.io
-0.0.0.0 scontent-iad3-2.cdninstagram.com
-0.0.0.0 scontent-iad3-1.cdninstagram.com
 0.0.0.0 ads-admin.brave.com
 0.0.0.0 ads.brave.com
 0.0.0.0 ads-admin.bravesoftware.com
@@ -783,7 +779,6 @@
 0.0.0.0 wdp.brave.com
 0.0.0.0 gator.volces.com
 0.0.0.0 mobile-messenger.intercom.com
-0.0.0.0 scontent-iad3-1.xx.fbcdn.net
 0.0.0.0 guh50jw4-ios.mobile-messenger.intercom.com
 0.0.0.0 tab.volces.com
 0.0.0.0 pricespider.com
@@ -800,7 +795,6 @@
 0.0.0.0 gamezistine.com
 0.0.0.0 pxl.gamezistine.com
 0.0.0.0 iflydown.com
-0.0.0.0 z-p42-scontent-iad3-2.cdninstagram.com
 0.0.0.0 flipp.com
 0.0.0.0 x054.nj.com
 0.0.0.0 collector-pxdojv695v.protechts.net
