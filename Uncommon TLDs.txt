@@ -1,10 +1,11 @@
 ! Title: Uncommon TLDs
 ! Description: Wide-ranging list of TLDs that are commonly used for popup ads, malware, and other spam. May break some sites. Will likely cause problems for users in Russia, China, Iran, and Belarus, as those country's TLDs are included in this list
-! Version: 2025.04.12
+! Version: 2025.04.13
 ! Expires: 1 day
 ! License: https://creativecommons.org/licenses/by/4.0/
 ! Homepage: https://github.com/ethan817/Unnecessary-Mobile-Hosts
 
+||.local^
 ||.cf^
 ||.work^
 ||.ga^
