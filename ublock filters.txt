@@ -1,0 +1,226 @@
+! Mar 27, 2025 https://www.nytimes.com
+www.nytimes.com##.css-1kj7lfb.nytcp-opt
+www.nytimes.com###site_head__statement
+
+! Apr 3, 2025 https://my.nextdns.io
+my.nextdns.io##.d-inline-block
+my.nextdns.io##div.align-items-center.d-flex:nth-of-type(2)
+
+! Sep 18, 2025 https://themonmouthjournaleastern.com
+themonmouthjournaleastern.com##[href="https://www.samrapediatrics.com/"]
+themonmouthjournaleastern.com##[href="https://www.falconlawfirm.com/"]
+themonmouthjournaleastern.com##[href="https://arrowlimo.com/"]
+themonmouthjournaleastern.com##[href="https://samraplasticsurgery.com/"]
+
+! Oct 18, 2025 https://themonmouthjournaleastern.com
+themonmouthjournaleastern.com##[src="https://themonmouthjournalcentral.com/falconlawcriminaldefense1.jpeg"]
+themonmouthjournaleastern.com##[href="https://jeunessemedicalspa.com/"]
+themonmouthjournaleastern.com##[href="https://njrefrigeration.com/"]
+
+! Oct 18, 2025 https://themonmouthjournalcentral.com
+themonmouthjournalcentral.com##[href="https://arrowlimo.com/"]
+themonmouthjournalcentral.com##[href="https://www.samrapediatrics.com/"]
+themonmouthjournalcentral.com##[href="https://njrefrigeration.com/"]
+themonmouthjournalcentral.com##[href="https://jeunessemedicalspa.com/"]
+themonmouthjournalcentral.com##[href="https://www.falconlawfirm.com/"]
+themonmouthjournalcentral.com##[href="https://samraplasticsurgery.com/"]
+themonmouthjournalcentral.com##[href="https://bulletlink.com"]
+
+! Oct 18, 2025 https://themonmouthjournalnorthern.com
+themonmouthjournalnorthern.com##[href="https://samraplasticsurgery.com/"]
+themonmouthjournalnorthern.com##[href="https://njrefrigeration.com/"]
+themonmouthjournalnorthern.com##[href="https://arrowlimo.com/"]
+themonmouthjournalnorthern.com##[href="https://www.samrapediatrics.com/"]
+themonmouthjournalnorthern.com##[href="https://www.falconlawfirm.com/"]
+themonmouthjournalnorthern.com##[href="https://jeunessemedicalspa.com/"]
+themonmouthjournalnorthern.com##[href="https://bulletlink.com"]
+
+! Oct 18, 2025 https://www.redbankgreen.com
+www.redbankgreen.com##[href="https://www.redbankgreen.com/advertising-on-redbankgreen/"]
+www.redbankgreen.com##.instagram-widget
+www.redbankgreen.com###rbg-classics
+www.redbankgreen.com##.section-organization.section
+
+! Oct 18, 2025 https://nypost.com
+nypost.com##.module--promo
+nypost.com##.widget--covers
+nypost.com##.skeleton--gracenote
+nypost.com##.widget--border.widget.widget_text
+nypost.com##.widget_sports_podcasts
+nypost.com##.widget_nypost_cover_widget.widget-wrapper--sticky-lg.widget-wrapper
+nypost.com##.widget-wrapper--sticky-lg
+nypost.com###menu-link-85
+nypost.com###menu-link-84
+nypost.com###menu-link-86
+nypost.com##.powered-by-wpcom
+nypost.com##.site-header__email
+nypost.com###menu-link-71
+nypost.com###menu-link-73
+nypost.com###menu-link-68
+nypost.com###menu-link-16
+nypost.com###menu-link-56
+nypost.com###menu-link-60
+nypost.com###menu-link-59
+nypost.com##.recirc
+
+! Oct 18, 2025 https://en.wikipedia.org
+en.wikipedia.org##.footer-icons
+en.wikipedia.org##.donate-banner
+
+! Oct 18, 2025 https://ayrdispensaries.com
+ayrdispensaries.com##.age-gate-popup
+ayrdispensaries.com##.loyalty-wrapper
+||ayrdispensaries.com/wp-content/uploads/2024/06/IOE_1-1*.png$image
+ayrdispensaries.com##.wp-image-65643.size-medium.attachment-medium
+ayrdispensaries.com##.e-lazyloaded.e-parent.e-con.e-con-boxed.e-flex.elementor-element-1e729839.elementor-element
+ayrdispensaries.com##.social-icons-ft
+ayrdispensaries.com###top-shop-slider > .e-con-inner
+ayrdispensaries.com##.elementor-65729.elementor
+
+! Oct 18, 2025 https://www.nytimes.com
+www.nytimes.com##.css-vtif0
+
+! Oct 18, 2025 https://www.politico.com
+www.politico.com##.md\:mt-\[1\.875rem\].w-full.flex.mt-\[1\.25rem\].siteCollection
+www.politico.com##li.sm\:peer-first\:border-l.sm\:peer-first\:mx-\[-1px\].sm\:px-2.sm\:my-\[0\.2rem\].border-gray-vulcan-51.peer:nth-of-type(2)
+www.politico.com##.lg\:gap-4.lg\:flex-row.tracking-\[0\.1rem\].leading-\[0\.9rem\].uppercase.font-bold.text-xs.gap-2.items-center.flex-col.flex
+
+! Oct 18, 2025 https://www.nj.com
+www.nj.com##.advToprail__right-corner--subscribe
+www.nj.com##.module__type-only--promo
+www.nj.com##.module__promo--wrapper
+www.nj.com##.footer__disclaimer-wrapper
+www.nj.com##.footer__nav-topics
+www.nj.com##.alert-bar--news-promo
+www.nj.com##.skimlinks
+www.nj.com##.footer_cookies_ad_settings
+www.nj.com##.ad-wrapper__mobile-bottom-adhesion
+www.nj.com##.related-articles-container
+
+! Oct 18, 2025 https://www.truepeoplesearch.com
+www.truepeoplesearch.com##.clym-widget-type-footer.clym-widget-bottom.clym-widget-center.clym-widget-notice.clym-widget
+www.truepeoplesearch.com###universalPwaInstallBanner
+www.truepeoplesearch.com##.shadow-form.card-body.card
+
+! Oct 18, 2025 https://voterrecords.com
+voterrecords.com##.TopPadding10.text-center.NoLeftRightPadding.visible-xs.col-xs-12
+voterrecords.com###background-records
+voterrecords.com###moreabout
+voterrecords.com###background-reports
+voterrecords.com##.fb-btn
+
+! Oct 18, 2025 https://www.whitepages.com
+www.whitepages.com###endemic-ads-container
+www.whitepages.com###person-details-ancestry-ads-section
+www.whitepages.com###powered-by-wp-premium
+
+! Oct 18, 2025 https://www.amazon.com
+www.amazon.com##.content-grid-block
+
+! Oct 18, 2025 https://www.stacksocial.com
+www.stacksocial.com##.css-1nl9ux4
+www.stacksocial.com##.css-vcqsf2
+www.stacksocial.com##.css-1ld6lkq
+
+! Oct 18, 2025 https://slickdeals.net
+slickdeals.net##.usersnapButton
+
+! Oct 18, 2025 https://www.reddit.com
+www.reddit.com##.relative.justify-end.flex-1.items-center.flex > .block.nd\:visible
+www.reddit.com##.mb-xl.p-0.m-0
+www.reddit.com##.xs\:uppercase.xs\:text-neutral-content-weak.xs\:text-12.text-18.xs\:px-0.px-md.xs\:py-0.py-sm.m-md.font-semibold
+
+! Oct 18, 2025 https://controld.com
+controld.com###barry-toggle
+
+! Oct 18, 2025 https://www.washingtonpost.com
+www.washingtonpost.com##.wpds-c-eUUIRs
+www.washingtonpost.com##.wpds-c-coMWjg-iobFYN-css.wpds-c-coMWjg.wpds-c-kSOqLF-eezhJm-cv.wpds-c-kSOqLF-hGNJMA-icon-center.wpds-c-kSOqLF-hZSyid-isOutline-true.wpds-c-kSOqLF-biynoz-density-compact.wpds-c-kSOqLF-uTUwn-variant-primary.wpds-c-kSOqLF
+www.washingtonpost.com##.wpds-c-eiNaqp
+www.washingtonpost.com###radix-\:r5\:-trigger-ask-the-post-ai
+
+! Oct 18, 2025 https://stats.fm
+stats.fm##[href^="https://play.google.com/store/apps/details"]
+stats.fm##.lg\:ml-0.h-48.ml-4
+
+! Oct 31, 2025 https://themonmouthjournalnorthern.com
+themonmouthjournalnorthern.com##[href="https://www.eyesonfirstave.com/"]
+themonmouthjournalnorthern.com##[href="https://www.united.com/en/us/"]
+themonmouthjournalnorthern.com###xthDs2
+themonmouthjournalnorthern.com##.ad-25
+themonmouthjournalnorthern.com##[href^="https://www.algonquinarts.org/calendar.php"]
+themonmouthjournalnorthern.com###jeTne2
+themonmouthjournalnorthern.com##[href="http://shermanjewelersah.com/"]
+themonmouthjournalnorthern.com###MIwRI > .hp-parent > tbody > tr > .hpe-i-ad
+themonmouthjournalnorthern.com##[href="https://elderlifemanagement.org/"]
+themonmouthjournalnorthern.com##[src="https://themonmouthjournalcentral.com/falconlawcriminaldefense1.jpeg"]
+themonmouthjournalnorthern.com###VRGaR0
+
+! Oct 31, 2025 https://themonmouthjournalwestern.com
+themonmouthjournalwestern.com###lhWqh0
+themonmouthjournalwestern.com##[href^="https://www.hilton.com/en/brands/hilton-hotels/"]
+themonmouthjournalwestern.com###lgVpg0
+themonmouthjournalwestern.com###lgVpg2
+themonmouthjournalwestern.com###lgVpg1
+themonmouthjournalwestern.com###lgVpg3
+themonmouthjournalwestern.com###lhWqh1
+themonmouthjournalwestern.com###lhWqh2
+themonmouthjournalwestern.com##[href="https://www.ciscommunities.com/monmouth-county"]
+themonmouthjournalwestern.com##[href="https://elderlifemanagement.org/"]
+themonmouthjournalwestern.com##[href="https://samraplasticsurgery.com/"]
+themonmouthjournalwestern.com###QMzVL1
+themonmouthjournalwestern.com##[href="https://jeunessemedicalspa.com/"]
+themonmouthjournalwestern.com##[href="https://www.paonezaleski.com/"]
+
+! Oct 31, 2025 https://themonmouthjournalcentral.com
+themonmouthjournalcentral.com###LHvQG3
+themonmouthjournalcentral.com###LHvQG1
+themonmouthjournalcentral.com##[href^="https://www.hilton.com/en/brands/hilton-hotels/"]
+themonmouthjournalcentral.com###VRGaQ1
+themonmouthjournalcentral.com###VRGaQ2
+themonmouthjournalcentral.com###VRGaQ0
+
+! Nov 2, 2025 https://rethinkdns.com
+rethinkdns.com##.relative.video-container
+
+! Nov 2, 2025 https://www.app.com
+www.app.com##.gnt_x__mah.gnt_x__c
+
+! Nov 2, 2025 https://people.com
+people.com##.people-sc-block-spotlight--mid-circ
+people.com##.is-visible.mntl-block.mntl-header-drawer.comp
+people.com##.recirc-lead
+people.com##.mntl-footer__primary
+people.com##.puzzler-promo-unit--homepage
+people.com##.mntl-block.four-post__footer.comp
+people.com##.mm-video-jwplayer-portrait.mm-video-jwplayer-portrait--homepage.comp
+
+! Nov 2, 2025 https://www.thepinknews.com
+www.thepinknews.com##.wp-block-create-block-pn-promo-block
+
+! Nov 2, 2025 https://www.nbcnews.com
+www.nbcnews.com##.headline-container
+www.nbcnews.com##.js-local-nav-insert.local-insert
+www.nbcnews.com##.styles_LightPrimaryMediaBannerCta__ylZdB.styles_PrimaryMediaBannerCta__zHJ0H
+
+! Nov 2, 2025 https://www.bloomberg.com
+www.bloomberg.com##.floating-copy-link
+
+! Nov 2, 2025 https://www.tmz.com
+www.tmz.com##.gallery-slide--ad-overlay
+www.tmz.com###ad-gallery-slide-456bb58f-63be-46c7-9228-55f434eda9cb-0
+
+! Nov 2, 2025 https://www.theguardian.com
+www.theguardian.com##.dcr-1wf840d
+www.theguardian.com##.dcr-1v06yj3
+www.theguardian.com###\34 53169ea-2a3f-4e5e-bcca-386520c37d4d
+www.theguardian.com##.dcr-jkwt9a
+
+! Nov 2, 2025 https://www.bbc.com
+www.bbc.com##.GunZh.sc-3b6b161a-0
+
+! Nov 2, 2025 https://www.npr.org
+www.npr.org##.player-react-mount
+
+! Nov 2, 2025 https://news.google.com
+news.google.com##.Au3bp.EElTpf.kbeFSb.lMgtcc.R7GTQ.j7vNaf.ALi4tc.YtXOzd
